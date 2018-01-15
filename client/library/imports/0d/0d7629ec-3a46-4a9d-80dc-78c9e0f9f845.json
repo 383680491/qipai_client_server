@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "shuzi.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "fu0": {
+      "__uuid__": "3bab8fd1-9e49-45b4-8bfe-b7bb139a98fa"
+    },
+    "fu1": {
+      "__uuid__": "789f6b78-d5dd-46ef-9e57-9f3453edcbd6"
+    },
+    "fu2": {
+      "__uuid__": "816c625d-c2f4-4e7a-a218-d9e9d2b5ab9b"
+    },
+    "fu3": {
+      "__uuid__": "bc5a0bcf-695e-4230-946f-603798f3ebe0"
+    },
+    "fu4": {
+      "__uuid__": "a32b45f0-99a3-4656-8911-3b1034e9b599"
+    },
+    "fu5": {
+      "__uuid__": "15553453-9c8e-437b-bb0e-2e8955e83152"
+    },
+    "fu6": {
+      "__uuid__": "56f79cc4-4489-4d7c-9f89-29c972ee8db9"
+    },
+    "fu7": {
+      "__uuid__": "8bfdbdd6-5480-41c2-a825-836f5c7d1ec2"
+    },
+    "fu8": {
+      "__uuid__": "e377f685-3495-41df-9f37-4270a20cfeea"
+    },
+    "fu9": {
+      "__uuid__": "20731065-88e8-4ce4-b867-32c82fdf05ba"
+    },
+    "fuhao": {
+      "__uuid__": "6a2b7757-283b-46dd-915b-cd53346a12ce"
+    },
+    "zheng0": {
+      "__uuid__": "41b662ac-5bbf-405f-9068-17f569583708"
+    },
+    "zheng1": {
+      "__uuid__": "6b5de87b-65e1-4a24-b24b-ea9a9d39c058"
+    },
+    "zheng2": {
+      "__uuid__": "adbe2349-ac35-4005-8941-e8003bd1af32"
+    },
+    "zheng3": {
+      "__uuid__": "c9c67e94-27d3-4829-9967-0d84ac1c63d0"
+    },
+    "zheng4": {
+      "__uuid__": "41e525e7-5267-4abd-a29b-61785295656e"
+    },
+    "zheng5": {
+      "__uuid__": "2fc37ed4-bfe5-4e16-9e69-0732daf59802"
+    },
+    "zheng6": {
+      "__uuid__": "d29446ea-8013-43bb-bb77-a4788b9a121b"
+    },
+    "zheng7": {
+      "__uuid__": "8e43b3fe-1e95-4a97-a179-9f27c82439ce"
+    },
+    "zheng8": {
+      "__uuid__": "6da1f23a-722f-4315-9af0-4d15675be6fa"
+    },
+    "zheng9": {
+      "__uuid__": "28ef5ab2-2a6e-4a6c-9c48-59fe8c74b886"
+    },
+    "zhenghao": {
+      "__uuid__": "58e69521-050e-40a9-8582-022394ec18ca"
+    }
+  }
+}

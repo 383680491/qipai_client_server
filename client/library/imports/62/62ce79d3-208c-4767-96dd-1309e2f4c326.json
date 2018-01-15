@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sssdilei",
+    "texture": "b9ab2db0-b7d7-420e-964f-51bfe039e7d7",
+    "atlas": "",
+    "rect": [
+      57,
+      28,
+      1733,
+      1559
+    ],
+    "offset": [
+      -100.5,
+      216.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ]
+  }
+}

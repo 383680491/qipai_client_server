@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_south_turn",
+    "texture": "8bd6cf8c-5143-474b-b1d2-45ab08453f9a",
+    "atlas": "21811c57-35af-4c17-a1ed-f71aa228bddc",
+    "rect": [
+      454,
+      409,
+      28,
+      32
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      36,
+      36
+    ],
+    "rotated": 1
+  }
+}

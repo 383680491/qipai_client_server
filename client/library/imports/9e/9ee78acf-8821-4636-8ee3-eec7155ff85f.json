@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hall_createRoom.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "cjfj-bt": {
+      "__uuid__": "8fe97051-8819-4944-8e4b-a61758f3f39b"
+    },
+    "cjfj-fuxuankuang1": {
+      "__uuid__": "a946397e-0e02-4ce1-a6a6-5de481b832aa"
+    },
+    "cjfj-fuxuankuang2": {
+      "__uuid__": "c86478b2-0698-422e-b34c-78f148a11c56"
+    },
+    "cjfj-jiesuanfangshi": {
+      "__uuid__": "12fb3dd3-43ac-4e11-9937-0b0e592d3aaa"
+    },
+    "cjfj-wanfaxuanze": {
+      "__uuid__": "381c9238-6e29-4d29-9266-651328a286a7"
+    },
+    "createRoom": {
+      "__uuid__": "8fbac125-f53b-4fdd-80d7-dbea01d93f5e"
+    },
+    "sss_costExplain": {
+      "__uuid__": "8d299ef1-14f5-4883-beb6-7d511d66531f"
+    }
+  }
+}

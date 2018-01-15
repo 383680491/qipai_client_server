@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "feiwen.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "feiwen_00": {
+      "__uuid__": "72f580dc-62dd-48d1-b9dd-422278d7d19b"
+    },
+    "feiwen_01": {
+      "__uuid__": "dc5cf9ff-3a6f-4189-bdb8-c674eb00821e"
+    },
+    "feiwen_02": {
+      "__uuid__": "9dd0e167-c121-4aea-8abe-33b08566e2b3"
+    },
+    "feiwen_03": {
+      "__uuid__": "79a3458b-bcc9-46b5-9597-f88c0c6b2509"
+    },
+    "feiwen_04": {
+      "__uuid__": "d18ac524-115d-41c9-b9c0-ff67e525d8fb"
+    },
+    "feiwen_05": {
+      "__uuid__": "f8395790-d006-44b9-96ce-0948cc526887"
+    },
+    "feiwen_06": {
+      "__uuid__": "9b443aef-9592-46f8-bd1d-a3a96e8fe328"
+    },
+    "feiwen_07": {
+      "__uuid__": "a8ba4d9f-79f5-4035-b0a6-0db10df6e0cd"
+    },
+    "feiwen_08": {
+      "__uuid__": "4ac58a05-eb56-4c15-8daa-6836500bc217"
+    },
+    "feiwen_09": {
+      "__uuid__": "70b03b27-5ea6-44ff-a513-347de654fdc2"
+    },
+    "feiwen_10": {
+      "__uuid__": "f895afc6-a989-44f2-9798-a98afe4ee1c0"
+    },
+    "feiwen_11": {
+      "__uuid__": "32e3151c-1d6b-4cb8-a0a3-ac2d5aed2c00"
+    },
+    "feiwen_12": {
+      "__uuid__": "27352453-4f43-40fa-bc80-1fe1e23acb2f"
+    }
+  }
+}

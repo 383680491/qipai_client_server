@@ -1,0 +1,28 @@
+{
+  "appKey": "4A001387-B192-1E82-C247-9BD4727ECFDA",
+  "appSecret": "cdf1213bf4256ef3100823684abdeeaf",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": true,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "http://oauth.anysdk.com/api/User/LoginOauth/",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.fyxxkj.qidian",
+  "privateKey": "E884B5A08E659CF13E068C26F1770895",
+  "renderMode": "0",
+  "startScene": "7898c3aa-75db-4523-8b22-e60bf7d83784",
+  "title": "FZMJ",
+  "webOrientation": "landscape",
+  "xxteaKey": "71367acf-76da-47"
+}

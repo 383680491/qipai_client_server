@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_setttle.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "settle_draw": {
+      "__uuid__": "bb654f7d-be9d-406f-8cdf-3236c7ffd6bb"
+    },
+    "settle_girl": {
+      "__uuid__": "266bda26-350a-4b0e-aba6-d8bbfd711d4d"
+    },
+    "settle_lose": {
+      "__uuid__": "e94ffb69-153b-4388-a8f6-1a13b8dd0cb0"
+    },
+    "settle_settle": {
+      "__uuid__": "4b56f5ac-3b3d-4ffc-b53a-1042859dd8f4"
+    },
+    "settle_win": {
+      "__uuid__": "d44cf666-c177-438e-aa33-6d21f8a048f4"
+    }
+  }
+}

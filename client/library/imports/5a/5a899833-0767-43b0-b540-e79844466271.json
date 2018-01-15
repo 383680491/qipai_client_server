@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sspCreateRoom",
+    "texture": "11acd13e-811b-48c0-ba3b-7b0c142014e2",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      909,
+      153
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      914,
+      158
+    ]
+  }
+}

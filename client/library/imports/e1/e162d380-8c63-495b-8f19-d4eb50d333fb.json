@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sss_bg.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "sss_Bg": {
+      "__uuid__": "47752075-9ad5-4687-b5d4-c76aa2393e8f"
+    }
+  }
+}

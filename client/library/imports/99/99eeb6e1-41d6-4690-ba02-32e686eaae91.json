@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_sssRule",
+    "texture": "a89a32d0-90b0-4bc3-9c80-9061fd0d16e7",
+    "atlas": "",
+    "rect": [
+      3,
+      14,
+      376,
+      2684
+    ],
+    "offset": [
+      -9,
+      5
+    ],
+    "originalSize": [
+      400,
+      2722
+    ]
+  }
+}

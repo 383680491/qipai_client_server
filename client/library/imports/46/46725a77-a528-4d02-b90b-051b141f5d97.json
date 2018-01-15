@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_BWZprompt",
+    "texture": "e3994b78-9851-4e3d-a009-18613d29d6ae",
+    "atlas": "dfcddbb3-daed-49b5-b3ed-c452847bda6b",
+    "rect": [
+      384,
+      64,
+      332,
+      66
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      336,
+      76
+    ],
+    "rotated": 1
+  }
+}

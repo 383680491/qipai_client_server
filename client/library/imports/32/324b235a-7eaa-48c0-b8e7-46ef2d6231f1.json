@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_xiaolaba",
+    "texture": "b4bbea21-cdc8-40b4-925c-1eca845e70e8",
+    "atlas": "d8ce099e-166c-4fba-9378-5a9158deb169",
+    "rect": [
+      996,
+      296,
+      36,
+      32
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      38,
+      38
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "modeNameImg.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "jryx-fzmj": {
+      "__uuid__": "b9bc5132-7aad-4861-9c52-75a867b00374"
+    },
+    "jryx-sss": {
+      "__uuid__": "1eaac417-8cf7-4a92-97b1-7604246810dd"
+    }
+  }
+}

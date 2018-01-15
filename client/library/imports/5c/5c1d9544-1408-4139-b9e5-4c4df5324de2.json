@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chupai",
+    "texture": "1fd8cc3a-cca7-4904-aa00-43e1e7e4183c",
+    "atlas": "1ce01a85-2567-4097-9c32-17a7cf047079",
+    "rect": [
+      229,
+      2,
+      118,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      44
+    ]
+  }
+}

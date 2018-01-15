@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yinlong_00019",
+    "texture": "398b711a-5d41-403b-a96d-c9bb78218824",
+    "atlas": "e183f245-a75c-4487-a688-8c0d59239507",
+    "rect": [
+      364,
+      2371,
+      360,
+      468
+    ],
+    "offset": [
+      -7,
+      -2
+    ],
+    "originalSize": [
+      500,
+      500
+    ]
+  }
+}

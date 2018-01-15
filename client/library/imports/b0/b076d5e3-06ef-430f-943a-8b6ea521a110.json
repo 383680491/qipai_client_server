@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_fourColor",
+    "texture": "b4bbea21-cdc8-40b4-925c-1eca845e70e8",
+    "atlas": "d8ce099e-166c-4fba-9378-5a9158deb169",
+    "rect": [
+      344,
+      2,
+      338,
+      390
+    ],
+    "offset": [
+      -2,
+      -3
+    ],
+    "originalSize": [
+      342,
+      400
+    ]
+  }
+}

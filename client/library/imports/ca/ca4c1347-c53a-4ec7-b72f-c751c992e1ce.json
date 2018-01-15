@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_table",
+    "texture": "b4bbea21-cdc8-40b4-925c-1eca845e70e8",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1800,
+      504
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      1805,
+      508
+    ]
+  }
+}

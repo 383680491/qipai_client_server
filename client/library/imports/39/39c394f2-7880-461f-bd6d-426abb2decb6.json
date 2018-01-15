@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fushuzhi",
+    "texture": "3c747f3e-1300-4e40-9aed-ff8b779bf007",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      46
+    ]
+  }
+}

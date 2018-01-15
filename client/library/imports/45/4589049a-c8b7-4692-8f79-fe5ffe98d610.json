@@ -1,0 +1,116 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hall_joinRoom.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "0": {
+      "__uuid__": "979c7fbf-9377-4409-8e99-4b1e5af11b90"
+    },
+    "1": {
+      "__uuid__": "3f44ef37-ea4b-4d30-9b6e-7a55fa1b6ec1"
+    },
+    "2": {
+      "__uuid__": "91a8f1fd-a121-4d65-8360-db7d31d2f334"
+    },
+    "3": {
+      "__uuid__": "a97134ff-cf5e-4849-b1b2-b8d65bfdf15e"
+    },
+    "4": {
+      "__uuid__": "1507d0b5-648b-401d-9e4a-2020938ae9ba"
+    },
+    "5": {
+      "__uuid__": "81a9280c-bdbd-4455-a62c-8bd94ef52d86"
+    },
+    "6": {
+      "__uuid__": "4bdc5d67-9851-4535-9a56-14558db524c3"
+    },
+    "7": {
+      "__uuid__": "05569f1a-ff17-4f52-938c-62c29e9cb57f"
+    },
+    "8": {
+      "__uuid__": "391775a6-f72f-4d7a-8fa3-8f0858f6e057"
+    },
+    "9": {
+      "__uuid__": "a15871aa-1c41-4e5c-9d75-68a0c8861897"
+    },
+    "icon_button_0_normal": {
+      "__uuid__": "1a9178d6-98d6-42a1-b045-9dd18920f598"
+    },
+    "icon_button_0_selected": {
+      "__uuid__": "bb91bea2-fd32-4cca-ada4-7978b0f82af7"
+    },
+    "icon_button_1_normal": {
+      "__uuid__": "b19141b9-ee9d-4bcc-afee-d518bd928475"
+    },
+    "icon_button_1_selected": {
+      "__uuid__": "4f55306d-ddfa-4ca9-ad43-5b27fbfcc6dc"
+    },
+    "icon_button_2_normal": {
+      "__uuid__": "4c679c56-6009-4469-a155-8d979b228345"
+    },
+    "icon_button_2_selected": {
+      "__uuid__": "7f62a30b-a841-453d-9a36-2675aa7ff013"
+    },
+    "icon_button_3_normal": {
+      "__uuid__": "8772e71c-84a1-4ea1-9283-fa6859e25901"
+    },
+    "icon_button_3_selected": {
+      "__uuid__": "15d0ccd3-2aaf-4f77-9b8c-0f48a0daffa5"
+    },
+    "icon_button_4_normal": {
+      "__uuid__": "f3e7ed4f-2200-4b37-804d-1709fd0f8deb"
+    },
+    "icon_button_4_selected": {
+      "__uuid__": "fd99f734-b428-488b-8c2f-a30699aa0a1a"
+    },
+    "icon_button_5_normal": {
+      "__uuid__": "150d35c7-1cab-4c33-aea7-dc96c8fbe643"
+    },
+    "icon_button_5_selected": {
+      "__uuid__": "499ba188-aaf8-4472-ae50-58b9a9a04a32"
+    },
+    "icon_button_6_normal": {
+      "__uuid__": "e77e80bd-b5e4-43e1-adcb-cfb44f0eab2f"
+    },
+    "icon_button_6_selected": {
+      "__uuid__": "2f4b9270-e057-4ece-bd10-c1d80dd16c21"
+    },
+    "icon_button_7_normal": {
+      "__uuid__": "da0105a6-8c53-4ede-89ff-181ce9851eba"
+    },
+    "icon_button_7_selected": {
+      "__uuid__": "cd059d1c-975f-407c-9441-f76abd27c9e2"
+    },
+    "icon_button_8_normal": {
+      "__uuid__": "8f6e6c8a-5a1c-481d-bf84-5fb48a2dd372"
+    },
+    "icon_button_8_selected": {
+      "__uuid__": "cbe9cd99-7a08-4831-ae0f-d5c6119a035c"
+    },
+    "icon_button_9_normal": {
+      "__uuid__": "ced7eae6-34fb-49cf-843e-8bc18cd3470f"
+    },
+    "icon_button_9_selected": {
+      "__uuid__": "8e62e574-4ee7-48e9-a495-e05f20218045"
+    },
+    "jrfj-clear1": {
+      "__uuid__": "bae755ea-028d-4f19-b7e7-16768b12f07a"
+    },
+    "jrfj-clear2": {
+      "__uuid__": "e2bc1fdd-0745-49b1-9450-98d0a13fdba9"
+    },
+    "jrfj-shurukuang": {
+      "__uuid__": "4b8d959e-1e5d-46ce-8a5c-86e8e29f5a24"
+    },
+    "jrfj-zuojian1": {
+      "__uuid__": "6e9a546c-2252-4ab0-8bb2-4a7af003ed9b"
+    },
+    "jrfj-zuojian2": {
+      "__uuid__": "5bdd1ce9-48b7-4ea9-9eab-4b5c51412f62"
+    },
+    "jrfj": {
+      "__uuid__": "ed312e5e-6421-48ad-94db-8e7e8b118e11"
+    }
+  }
+}

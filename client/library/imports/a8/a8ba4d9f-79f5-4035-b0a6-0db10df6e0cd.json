@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "feiwen_07",
+    "texture": "4522f5a8-4c28-4426-8a37-b6c3da6ef0be",
+    "atlas": "f180f111-5f6c-4efa-9ef7-bda4d3b10de3",
+    "rect": [
+      520,
+      260,
+      260,
+      260
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      260
+    ]
+  }
+}

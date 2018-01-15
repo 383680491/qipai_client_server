@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_mj_huaban3",
+    "texture": "ebda316c-530f-4c83-8d41-8c40748c6761",
+    "atlas": "28b77382-ed8f-49a6-8031-208d9b3b81e5",
+    "rect": [
+      482,
+      1996,
+      40,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      41
+    ],
+    "rotated": 1
+  }
+}

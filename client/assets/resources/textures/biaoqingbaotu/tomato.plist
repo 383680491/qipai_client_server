@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tomato_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,240},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{120,0},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{120,240},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,0},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,240},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,0},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,240},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,0},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+			<key>tomato_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,240},{120,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,240}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>tomato.png</string>
+			<key>realTextureFileName</key>
+			<string>tomato.png</string>
+			<key>size</key>
+			<string>{600,480}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>600</integer>
+			<key>height</key>
+			<integer>480</integer>
+		</dict>
+	</dict>
+</plist>

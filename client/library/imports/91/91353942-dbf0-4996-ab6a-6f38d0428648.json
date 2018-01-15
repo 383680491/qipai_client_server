@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liansheng",
+    "texture": "8d6db996-2418-4dec-a9fe-3efbe08af3fc",
+    "atlas": "",
+    "rect": [
+      2,
+      8,
+      908,
+      1170
+    ],
+    "offset": [
+      -56,
+      431
+    ],
+    "originalSize": [
+      1024,
+      2048
+    ]
+  }
+}

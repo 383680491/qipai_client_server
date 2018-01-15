@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hall_bottombar",
+    "texture": "b4bbea21-cdc8-40b4-925c-1eca845e70e8",
+    "atlas": "d8ce099e-166c-4fba-9378-5a9158deb169",
+    "rect": [
+      312,
+      394,
+      1176,
+      103
+    ],
+    "offset": [
+      11,
+      2
+    ],
+    "originalSize": [
+      1198,
+      123
+    ]
+  }
+}

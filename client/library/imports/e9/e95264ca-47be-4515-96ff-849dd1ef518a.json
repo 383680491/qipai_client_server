@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dibanchongji3",
+    "texture": "b9ab2db0-b7d7-420e-964f-51bfe039e7d7",
+    "atlas": "9563acd0-a7a1-4cf1-8497-eb0a269996eb",
+    "rect": [
+      644,
+      547,
+      640,
+      543
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      543
+    ]
+  }
+}

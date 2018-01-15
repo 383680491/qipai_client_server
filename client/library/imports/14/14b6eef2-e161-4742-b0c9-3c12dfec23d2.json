@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_mj_heju",
+    "texture": "ebda316c-530f-4c83-8d41-8c40748c6761",
+    "atlas": "28b77382-ed8f-49a6-8031-208d9b3b81e5",
+    "rect": [
+      1714,
+      2,
+      236,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      238,
+      140
+    ]
+  }
+}

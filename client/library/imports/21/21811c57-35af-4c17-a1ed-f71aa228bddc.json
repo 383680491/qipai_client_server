@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mj_icon.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "mj_chi": {
+      "__uuid__": "42446b15-ceee-4bd1-9677-239733160fca"
+    },
+    "mj_chinode": {
+      "__uuid__": "3005ac87-cc6d-4f47-889e-455e244b5ebb"
+    },
+    "mj_east": {
+      "__uuid__": "36976e2c-f76a-4a98-a865-7f734d3e6f79"
+    },
+    "mj_east_turn": {
+      "__uuid__": "e8faf122-cbbf-4794-b89e-abc19586100d"
+    },
+    "mj_endingHu": {
+      "__uuid__": "3ef0cdc4-b753-4c97-8580-7e52d893efd0"
+    },
+    "mj_fangxiang": {
+      "__uuid__": "9941cc7a-d88b-455f-bdce-d2fdc3710779"
+    },
+    "mj_fangxiang1": {
+      "__uuid__": "668f942b-2417-4e19-9e3a-ceeef2134726"
+    },
+    "mj_fangxiang2": {
+      "__uuid__": "2e402add-625a-471a-8695-549094994a45"
+    },
+    "mj_fangxiang3": {
+      "__uuid__": "85a28591-8e15-47a0-911b-65af25192c9e"
+    },
+    "mj_fangxiang4": {
+      "__uuid__": "de2a35c5-256a-44cc-b3fa-8b2d5208dc8e"
+    },
+    "mj_gang": {
+      "__uuid__": "cdc013f1-b8d8-4b28-b34b-74559e72cdd6"
+    },
+    "mj_guo": {
+      "__uuid__": "54757f37-5ab0-48cf-b2c8-14fb39897852"
+    },
+    "mj_hu": {
+      "__uuid__": "28ed45a8-f41d-4de2-a41a-f422705245b8"
+    },
+    "mj_hua": {
+      "__uuid__": "e8226c9a-5b1f-4b0b-ba0e-edbc9cf955a2"
+    },
+    "mj_jin": {
+      "__uuid__": "1edd37bc-fa0a-45c1-aab1-4369f956549b"
+    },
+    "mj_jinpai": {
+      "__uuid__": "48605792-fcaa-4496-90ff-c9271f947a43"
+    },
+    "mj_jinpai_light": {
+      "__uuid__": "fd4fcafd-46b5-44a7-ad8f-1d23d92d4b25"
+    },
+    "mj_lan": {
+      "__uuid__": "e8368837-f6a3-4d5e-a0cc-c2ce1bc24150"
+    },
+    "mj_light": {
+      "__uuid__": "7cf164b2-1489-4fc0-914c-bb43993d7cfc"
+    },
+    "mj_north": {
+      "__uuid__": "bbb190c6-648a-4e83-abfa-4c59c3f37be7"
+    },
+    "mj_north_turn": {
+      "__uuid__": "3149dbad-4f2f-4656-8633-147022d44289"
+    },
+    "mj_peng": {
+      "__uuid__": "38984cb1-5098-473e-af02-8bf97c92236a"
+    },
+    "mj_prompt": {
+      "__uuid__": "bbc7c9d2-8475-4fe7-a7b7-102e4b27b217"
+    },
+    "mj_sonth": {
+      "__uuid__": "becd22b6-b008-4123-bb6d-a724e25e9544"
+    },
+    "mj_south_turn": {
+      "__uuid__": "57cdd377-9fb6-4ee4-846a-5fb1905c05f1"
+    },
+    "mj_west": {
+      "__uuid__": "15b94d47-049e-44f0-acb4-d17714c481e9"
+    },
+    "mj_west_turn": {
+      "__uuid__": "bf8fc98a-da37-40b3-bdd5-919bcbce7753"
+    },
+    "mj_zhuang": {
+      "__uuid__": "1d6fd259-9a2b-455d-9dda-82cc5d57f407"
+    },
+    "phb-ID": {
+      "__uuid__": "34a1c1dc-3c73-44a0-85b8-eee7b378e4c3"
+    },
+    "phb-jifen": {
+      "__uuid__": "58ab4458-6e02-4065-a2f2-901c73e8b4df"
+    },
+    "phb-pingju": {
+      "__uuid__": "1f1d6dc6-9b4c-4a4f-9213-b665fd9f4d62"
+    },
+    "phb-shuju": {
+      "__uuid__": "438152de-9237-439e-a4e9-94b920bfeaf8"
+    },
+    "phb-wanjia": {
+      "__uuid__": "f34272a7-560e-4066-80a5-ba50b3caacc4"
+    },
+    "phb-yingju": {
+      "__uuid__": "ba21ef49-d78c-46ce-bf56-1fac4e23f122"
+    }
+  }
+}

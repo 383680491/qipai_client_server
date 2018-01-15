@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_enter",
+    "texture": "d9922de0-e711-4341-b657-60bfb79efd8d",
+    "atlas": "6e684c9e-3b33-4501-a70f-08cf1a055d1e",
+    "rect": [
+      2,
+      281,
+      412,
+      126
+    ],
+    "offset": [
+      4,
+      0
+    ],
+    "originalSize": [
+      420,
+      154
+    ]
+  }
+}

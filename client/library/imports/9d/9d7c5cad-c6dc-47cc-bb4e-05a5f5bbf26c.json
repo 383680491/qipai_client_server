@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_chat.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "chat_chick": {
+      "__uuid__": "a9bf9102-2de5-48f5-99a6-a22be530e2f1"
+    },
+    "chat_emojibg": {
+      "__uuid__": "0c145bf8-4625-4e18-81f8-0a0105e9478d"
+    },
+    "chat_frame": {
+      "__uuid__": "5fa720f4-d244-4ca8-bd55-e7f989bd5c36"
+    },
+    "chat_input": {
+      "__uuid__": "b431d07f-f439-4fbd-bdb4-e42db46bbff8"
+    },
+    "chat_normol": {
+      "__uuid__": "a509e499-dd0e-42a9-a051-6a697859591a"
+    }
+  }
+}

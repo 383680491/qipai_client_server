@@ -1,0 +1,290 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_sssEff.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "eff_sss_Gradient": {
+      "__uuid__": "bccab6e9-8871-4e98-aeca-55b297b8dbcb"
+    },
+    "eff_sss_annulus": {
+      "__uuid__": "3f029a05-e3e4-42f3-9a92-9be808542718"
+    },
+    "eff_sss_beiguang2": {
+      "__uuid__": "48e2e203-6ff2-4509-8c57-77b801aafab3"
+    },
+    "eff_sss_beiguang3": {
+      "__uuid__": "071f4f20-a116-4310-91ff-2b87d6981b74"
+    },
+    "eff_sss_bullet1": {
+      "__uuid__": "d82c0651-1025-4503-b28e-122f58decb45"
+    },
+    "eff_sss_bullet2": {
+      "__uuid__": "efdbc0bc-5fb7-474b-b81b-01ca0d784b9f"
+    },
+    "eff_sss_bullet3": {
+      "__uuid__": "dfc3a5f2-1157-4fe0-a863-caf53c12ba9a"
+    },
+    "eff_sss_caidai": {
+      "__uuid__": "4e258e54-8026-44db-aa9a-14c5c93e761a"
+    },
+    "eff_sss_cuoyise": {
+      "__uuid__": "7f2afaad-29f4-4788-a390-8a6e1ff0aafd"
+    },
+    "eff_sss_cyanL": {
+      "__uuid__": "bbd3e8ec-6178-47db-b664-902f22bd1134"
+    },
+    "eff_sss_da": {
+      "__uuid__": "e43c83e6-1e64-4a21-a70d-cfb6caaf6591"
+    },
+    "eff_sss_dankeng": {
+      "__uuid__": "72232ac9-d49a-4d64-a4d5-282bcb431900"
+    },
+    "eff_sss_dankongtu": {
+      "__uuid__": "fc2a1b07-aabf-4219-a637-f0b9ddcbd38b"
+    },
+    "eff_sss_daqiang": {
+      "__uuid__": "697fa90c-e8de-4167-95c5-fc70cc98d79d"
+    },
+    "eff_sss_diamond": {
+      "__uuid__": "3e099942-f508-497f-85c0-d74d338bf5b3"
+    },
+    "eff_sss_diamond2": {
+      "__uuid__": "e5addefc-2c98-4895-8ac8-bae334a5373e"
+    },
+    "eff_sss_diguang": {
+      "__uuid__": "7ec7b0ae-b01d-4bfc-b2b7-56d08ee8d412"
+    },
+    "eff_sss_diguang3": {
+      "__uuid__": "7696f558-4616-43a0-a5a0-0d896f0c621c"
+    },
+    "eff_sss_disk": {
+      "__uuid__": "5f5bfca1-606b-4d62-92e8-6a5062909437"
+    },
+    "eff_sss_fangkuaibai": {
+      "__uuid__": "9627194f-2f2c-4ce0-bd9e-19e56f2b2df5"
+    },
+    "eff_sss_glow": {
+      "__uuid__": "11453773-5788-4b3c-9eb2-766647ab8805"
+    },
+    "eff_sss_glow2": {
+      "__uuid__": "7ab7de81-aafd-4dd8-8703-47fbaa341cc8"
+    },
+    "eff_sss_goldenL": {
+      "__uuid__": "7b3390ce-33c8-4ba2-b934-a2f4b1b94c90"
+    },
+    "eff_sss_greenL": {
+      "__uuid__": "e891d715-f467-408a-93bb-ff8a757b0bb3"
+    },
+    "eff_sss_guang": {
+      "__uuid__": "15737750-cc36-45dc-845f-32a5ea7772d3"
+    },
+    "eff_sss_guang10": {
+      "__uuid__": "77539a41-116e-4ef2-9eba-210ba76f7bc5"
+    },
+    "eff_sss_guang2": {
+      "__uuid__": "3bdcef71-5aa3-4158-89b5-502f6dbfe357"
+    },
+    "eff_sss_guangci": {
+      "__uuid__": "59cd1a6e-8789-4a80-ba3b-11a24e2c5c04"
+    },
+    "eff_sss_guangman": {
+      "__uuid__": "bdd18f92-ff9e-462b-883f-f37e7ae37972"
+    },
+    "eff_sss_guangman01": {
+      "__uuid__": "862b0fe0-d395-4083-8971-78e7b32dba04"
+    },
+    "eff_sss_guangman02": {
+      "__uuid__": "ebc67040-653a-4391-8c7e-2a96171628ed"
+    },
+    "eff_sss_guangman04": {
+      "__uuid__": "0c2d3ef0-637a-4318-a4ec-e9051b49c92f"
+    },
+    "eff_sss_guangman08": {
+      "__uuid__": "ea474eb5-7a86-49fe-9331-a5fae6d5bad3"
+    },
+    "eff_sss_guangmang3": {
+      "__uuid__": "8f66c3b3-38ba-4939-a803-0cf09cfe8531"
+    },
+    "eff_sss_guangquanzi": {
+      "__uuid__": "24890124-1ee8-4a08-a297-301a360ee0e5"
+    },
+    "eff_sss_gun": {
+      "__uuid__": "075e534e-e934-4dc8-a6e3-296e65ba9056"
+    },
+    "eff_sss_hua2": {
+      "__uuid__": "8f3f0d9b-a98e-43d7-9501-af7dee2d769d"
+    },
+    "eff_sss_hua4": {
+      "__uuid__": "23f124df-fdce-4d24-8f55-7af4d207dabc"
+    },
+    "eff_sss_jianbian3": {
+      "__uuid__": "0705a0cf-a76c-42f5-835b-162266766e44"
+    },
+    "eff_sss_jianci": {
+      "__uuid__": "5959895e-6bcb-47ce-a943-6076ffb271cf"
+    },
+    "eff_sss_jianci14": {
+      "__uuid__": "dc3343e7-d8dc-4f1e-a122-2db90ec5d65d"
+    },
+    "eff_sss_jianci3": {
+      "__uuid__": "cc934da1-7c8e-4426-ae7f-6e00dcd56950"
+    },
+    "eff_sss_jianci4": {
+      "__uuid__": "d964de10-b18b-440e-ae81-39a0d7bb4b01"
+    },
+    "eff_sss_jianci6": {
+      "__uuid__": "88d0e49e-efed-4f6a-ab14-5d0ce381f596"
+    },
+    "eff_sss_jianci7": {
+      "__uuid__": "092b7315-7d61-4d83-a992-7fcba3905c5d"
+    },
+    "eff_sss_liangse": {
+      "__uuid__": "660aa676-ae4d-4f8a-8d13-6a1e12d9eeba"
+    },
+    "eff_sss_liuduiban": {
+      "__uuid__": "6d1e0389-c31e-4016-a064-bc24f84f20cb"
+    },
+    "eff_sss_lizi2": {
+      "__uuid__": "200917fd-778f-43f5-9f64-819d71c0d688"
+    },
+    "eff_sss_long": {
+      "__uuid__": "397e3a00-13ff-474a-b190-c92cf47f546b"
+    },
+    "eff_sss_long2": {
+      "__uuid__": "12889b8e-a65c-461d-94d9-d3c19a2c285e"
+    },
+    "eff_sss_moji": {
+      "__uuid__": "6fa3b3a4-a325-4afa-92a7-5e76dd0f60b1"
+    },
+    "eff_sss_one": {
+      "__uuid__": "2acdd694-637d-4ba6-9d81-5020323c410d"
+    },
+    "eff_sss_orangeL": {
+      "__uuid__": "e49dd2a8-f525-4620-bc6a-bb1f9114973c"
+    },
+    "eff_sss_paiL": {
+      "__uuid__": "db6fd7cf-2954-4a66-8ab3-b35f0a734de1"
+    },
+    "eff_sss_pailian": {
+      "__uuid__": "61a1f11b-f1b4-4061-b3d0-a329f45f270e"
+    },
+    "eff_sss_q": {
+      "__uuid__": "911f543e-902f-4df3-8b8c-00d348ca911f"
+    },
+    "eff_sss_qiang": {
+      "__uuid__": "f97893b1-1e9e-4642-8d62-91f077331d4a"
+    },
+    "eff_sss_qing": {
+      "__uuid__": "57bfa0f3-2fbb-48c6-adb4-348adca353c5"
+    },
+    "eff_sss_qinglong": {
+      "__uuid__": "9375c7a8-2d58-4021-a2de-6e22d83f778b"
+    },
+    "eff_sss_qiu": {
+      "__uuid__": "e84f4063-c0b7-4428-8f0b-f229d011d81e"
+    },
+    "eff_sss_qizi1": {
+      "__uuid__": "7a4ee7e2-b1e3-4e0e-94cd-344f1e87d021"
+    },
+    "eff_sss_qizi2": {
+      "__uuid__": "2b198d31-7482-47f6-8f5e-9bc6d9de79cb"
+    },
+    "eff_sss_qizi3": {
+      "__uuid__": "ca97f416-3b2d-4013-bd6d-55a78ba1234b"
+    },
+    "eff_sss_qizi4": {
+      "__uuid__": "624abe15-4f8f-45b8-beb3-6e0c31638106"
+    },
+    "eff_sss_quan": {
+      "__uuid__": "d12ec15f-4a55-480e-992d-1750429cdbf1"
+    },
+    "eff_sss_quanleida": {
+      "__uuid__": "29df8367-0b53-426c-b62c-49ae50753db4"
+    },
+    "eff_sss_quanzi": {
+      "__uuid__": "f7acf6ee-a8fd-48a4-81ca-d201544c227a"
+    },
+    "eff_sss_quanzi2": {
+      "__uuid__": "cbd3f9a4-7856-4c68-b7b8-ebfed72d345b"
+    },
+    "eff_sss_san": {
+      "__uuid__": "a73cebd4-c031-4751-bcb2-8b2b4bf11733"
+    },
+    "eff_sss_sanshunzi": {
+      "__uuid__": "df2d41bd-387b-4bb4-a722-da8565c6b8e5"
+    },
+    "eff_sss_santonghua": {
+      "__uuid__": "c2f29a62-9714-4633-b82e-19f8fba512ad"
+    },
+    "eff_sss_santonghuashun": {
+      "__uuid__": "729ae8d2-97aa-47be-8f7d-1491112b307f"
+    },
+    "eff_sss_shoot": {
+      "__uuid__": "868c0b35-275a-46c0-9620-ff398c7e4b1e"
+    },
+    "eff_sss_shooted": {
+      "__uuid__": "7e846619-5a01-4cd3-a780-ccdf216dc3f0"
+    },
+    "eff_sss_shun": {
+      "__uuid__": "50c8b6ae-139c-4dc6-a960-bb5ef936c489"
+    },
+    "eff_sss_smog1": {
+      "__uuid__": "df07432b-2487-4f46-b377-93b7fe434f91"
+    },
+    "eff_sss_smog2": {
+      "__uuid__": "c84dfa88-b765-4bec-8134-50b586df06a8"
+    },
+    "eff_sss_smog3": {
+      "__uuid__": "b1c0a878-0115-4386-8dc3-e7785632f9d5"
+    },
+    "eff_sss_smog4": {
+      "__uuid__": "7171194b-ba06-4a17-bc03-4c6e978b37b8"
+    },
+    "eff_sss_smog5": {
+      "__uuid__": "b7c0c4e4-19bd-468a-8236-53435766ee88"
+    },
+    "eff_sss_star1": {
+      "__uuid__": "a7154e8b-f010-46cf-80c3-cd23834541e4"
+    },
+    "eff_sss_star2": {
+      "__uuid__": "19d3f517-538a-461d-b969-44728d43b507"
+    },
+    "eff_sss_start": {
+      "__uuid__": "47e7bdfd-7201-4ce1-b300-b5847388dd6a"
+    },
+    "eff_sss_start2": {
+      "__uuid__": "004329c2-975b-47a6-842c-ae3056bba3f5"
+    },
+    "eff_sss_startgame": {
+      "__uuid__": "1e3a6e74-83d2-41ba-a97b-84dd0d00ac13"
+    },
+    "eff_sss_stst": {
+      "__uuid__": "27c2ac2d-b80b-4537-8e12-5127368c7f89"
+    },
+    "eff_sss_teizhi": {
+      "__uuid__": "6339e31c-7217-47a6-a28e-3893ac4a57e3"
+    },
+    "eff_sss_tiao": {
+      "__uuid__": "fce69b17-edf8-408c-ad01-cc1e32b24bd5"
+    },
+    "eff_sss_tong": {
+      "__uuid__": "df674a7a-e7dc-4f64-b5a5-22dc0bdb0a92"
+    },
+    "eff_sss_wtz": {
+      "__uuid__": "c88913f1-49cc-42ff-b797-65d277706f51"
+    },
+    "eff_sss_xiao": {
+      "__uuid__": "c26cb76c-3716-4be6-bf84-c615c82a426e"
+    },
+    "eff_sss_zhi": {
+      "__uuid__": "81deb4b1-ea9d-4ea3-a5e9-40dade1934bf"
+    },
+    "eff_sss_zung": {
+      "__uuid__": "3c9e9c66-ba25-41c4-9fde-e76dec7314e8"
+    },
+    "eff_sss_zzql": {
+      "__uuid__": "0b3b407c-4d53-4c20-a05e-2789a01cd98f"
+    }
+  }
+}

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>dianzan_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,260},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,520},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,0},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{520,0},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{780,0},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,260},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,520},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{520,260},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{780,260},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{520,520},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+			<key>dianzan_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{780,520},{260,260}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{260,260}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>dianzan.png</string>
+			<key>realTextureFileName</key>
+			<string>dianzan.png</string>
+			<key>size</key>
+			<string>{1040,780}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1040</integer>
+			<key>height</key>
+			<integer>780</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mj_bg.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "mj_beijing": {
+      "__uuid__": "76e1d9a1-8767-4541-8aae-30929625ae51"
+    }
+  }
+}

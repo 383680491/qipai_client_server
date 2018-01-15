@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liaotiankuang",
+    "texture": "7829a8d2-9818-47f9-9b6c-5ffc6f551a8e",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      1082,
+      74
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      1090,
+      76
+    ]
+  }
+}

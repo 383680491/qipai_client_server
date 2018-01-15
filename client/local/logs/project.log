@@ -1,0 +1,177 @@
+2018-01-09T07:01:55.463Z - normal: Load ~/.CocosCreator/settings.json
+2018-01-09T07:01:55.467Z - normal: checking language setting...
+2018-01-09T07:01:55.467Z - normal: Language: zh
+2018-01-09T07:01:57.166Z - success: protocol editor-framework registered
+2018-01-09T07:01:57.166Z - success: protocol app registered
+2018-01-09T07:01:57.166Z - success: protocol theme registered
+2018-01-09T07:01:57.166Z - success: protocol packages registered
+2018-01-09T07:01:57.166Z - success: protocol unpack registerred
+2018-01-09T07:01:57.166Z - success: protocol disable-commonjs registerred
+2018-01-09T07:01:57.641Z - normal: connected!
+2018-01-09T07:01:57.641Z - normal: Check project D:\cocoscreatertest\奇点棋牌-十三水四色牌\qidiangame\client
+2018-01-09T07:01:57.651Z - normal: Initializing Cocos2d
+2018-01-09T07:01:57.851Z - normal: Initializing Asset Database
+2018-01-09T07:01:57.891Z - success: protocol uuid registerred
+2018-01-09T07:01:57.891Z - success: protocol db registerred
+2018-01-09T07:01:57.891Z - success: protocol thumbnail registerred
+2018-01-09T07:01:57.891Z - normal: Loading editor/builtin packages
+2018-01-09T07:01:57.921Z - success: anysdk loaded
+2018-01-09T07:01:58.021Z - success: assets loaded
+2018-01-09T07:01:58.021Z - success: builder loaded
+2018-01-09T07:01:58.021Z - success: cocos-analytics loaded
+2018-01-09T07:01:58.031Z - success: console loaded
+2018-01-09T07:01:58.031Z - success: hierarchy loaded
+2018-01-09T07:01:58.031Z - success: inspector loaded
+2018-01-09T07:01:58.031Z - success: keystore loaded
+2018-01-09T07:01:58.041Z - success: node-library loaded
+2018-01-09T07:01:58.041Z - success: package-asset loaded
+2018-01-09T07:01:58.041Z - success: preferences loaded
+2018-01-09T07:01:58.051Z - success: project-exporter loaded
+2018-01-09T07:01:58.061Z - success: project-importer loaded
+2018-01-09T07:01:58.061Z - success: project-settings loaded
+2018-01-09T07:01:58.061Z - success: ui-kit loaded
+2018-01-09T07:01:58.071Z - success: ui-grid loaded
+2018-01-09T07:01:58.071Z - success: scene loaded
+2018-01-09T07:01:58.081Z - success: sprite-editor loaded
+2018-01-09T07:01:58.081Z - success: store loaded
+2018-01-09T07:01:58.081Z - success: timeline loaded
+2018-01-09T07:01:58.081Z - normal: Loading builtin packages
+2018-01-09T07:01:58.091Z - success: asset-db-debugger loaded
+2018-01-09T07:01:58.091Z - success: code-editor loaded
+2018-01-09T07:01:58.091Z - success: color-picker loaded
+2018-01-09T07:01:58.091Z - success: package-manager loaded
+2018-01-09T07:01:58.091Z - success: sdkbox loaded
+2018-01-09T07:01:58.101Z - success: tester loaded
+2018-01-09T07:01:58.101Z - success: ui-kit-preview-extra loaded
+2018-01-09T07:01:58.101Z - success: ui-kit-preview loaded
+2018-01-09T07:01:58.101Z - success: ui-tree loaded
+2018-01-09T07:01:59.031Z - normal: Initializing project D:\cocoscreatertest\奇点棋牌-十三水四色牌\qidiangame\client
+2018-01-09T07:01:59.041Z - normal: Loading packages
+2018-01-09T07:01:59.111Z - warn: The profile of the panel (creator-luacpp-support) needs to be moved to the package root
+2018-01-09T07:01:59.121Z - normal: [LuaCPP Support] version 0.3
+2018-01-09T07:01:59.121Z - success: creator-luacpp-support loaded
+2018-01-09T07:01:59.141Z - success: hot-update-tools loaded
+2018-01-09T07:01:59.141Z - normal: Watching packages
+2018-01-09T07:01:59.281Z - normal: Run Application
+2018-01-09T07:02:10.529Z - success: preview server running at http://localhost:7456
+2018-01-09T07:02:16.062Z - normal: 1.8.0
+2018-01-09T07:02:18.197Z - error: { Error: connect ETIMEDOUT 211.151.21.150:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '211.151.21.150',
+  port: 443 }
+    at D:\soft\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (D:\soft\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-01-09T07:02:35.856Z - error: { Error: connect ETIMEDOUT 211.151.21.150:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '211.151.21.150',
+  port: 443 }
+    at D:\soft\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (D:\soft\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:128:9)
+2018-01-09T07:15:39.543Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-01-09T07:15:39.544Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 1102.00
+2018-01-09T07:15:39.544Z - normal: Simulator: FRAME SCALE = 1.00
+2018-01-09T07:15:39.771Z - normal: Simulator: Ready for GLSL
+2018-01-09T07:15:39.771Z - normal: Simulator: Ready for OpenGL 2.0
+2018-01-09T07:15:39.771Z - normal: Simulator: 
+2018-01-09T07:15:39.771Z - normal: Simulator: {
+2018-01-09T07:15:39.771Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-01-09T07:15:39.771Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-01-09T07:15:39.771Z - normal: Simulator: 	cocos2d.x.version: 1.7.0
+2018-01-09T07:15:39.772Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-01-09T07:15:39.772Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-01-09T07:15:39.772Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-01-09T07:15:39.772Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-01-09T07:15:39.772Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-01-09T07:15:39.773Z - normal: Simulator: 	gl.vendor: Intel
+2018-01-09T07:15:39.774Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-01-09T07:15:39.775Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-01-09T07:15:39.775Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-01-09T07:15:39.776Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-01-09T07:15:39.779Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-01-09T07:15:39.779Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-01-09T07:15:39.779Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-01-09T07:15:39.779Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-01-09T07:15:39.780Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-01-09T07:15:39.780Z - normal: Simulator: }
+2018-01-09T07:15:39.780Z - normal: Simulator: 
+2018-01-09T07:15:39.780Z - normal: Simulator: 
+2018-01-09T07:15:39.780Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-01-09T07:15:39.780Z - normal: Simulator: Project Config:
+2018-01-09T07:15:39.780Z - normal: Simulator:     project dir: D:\soft\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-01-09T07:15:39.780Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-01-09T07:15:39.780Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-01-09T07:15:39.781Z - normal: Simulator:     frame size: 960 x 640
+2018-01-09T07:15:39.781Z - normal: Simulator:     frame scale: 1.00
+2018-01-09T07:15:39.781Z - normal: Simulator:     show console: NO
+2018-01-09T07:15:39.781Z - normal: Simulator:     write debug log: NO ()
+2018-01-09T07:15:39.781Z - normal: Simulator:     listen: 
+2018-01-09T07:15:39.781Z - normal: Simulator:     debugger: none
+2018-01-09T07:15:39.783Z - normal: Simulator:     add searching path:
+2018-01-09T07:15:39.783Z - normal: Simulator: 
+2018-01-09T07:15:39.783Z - normal: Simulator: 
+2018-01-09T07:15:39.784Z - normal: Simulator: 
+2018-01-09T07:15:39.784Z - normal: Simulator: ------------------------------------------------
+2018-01-09T07:15:39.784Z - normal: Simulator: LOAD Js FILE: main.js
+2018-01-09T07:15:39.784Z - normal: Simulator: ------------------------------------------------
+2018-01-09T07:15:39.784Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-01-09T07:15:39.976Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-01-09T07:15:39.977Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-01-09T07:15:39.977Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-01-09T07:15:40.145Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.7.0
+2018-01-09T07:15:40.379Z - normal: Simulator: E/jswrapper (174): [ERROR] Failed to invoke require, location: ..\manual\jsb_global.cpp:174
+2018-01-09T07:15:40.380Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'createElement' of undefined, location: D:/cocoscreatertest/奇点棋牌-十三水四色牌/qidiangame/client/assets/scripts/components/jquery-3.2.1.js:0:0
+2018-01-09T07:15:40.380Z - normal: Simulator: STACK:
+2018-01-09T07:15:40.380Z - normal: Simulator: [0]assert@D:/cocoscreatertest/奇点棋牌-十三水四色牌/qidiangame/client/assets/scripts/components/jquery-3.2.1.js:938
+2018-01-09T07:15:40.381Z - normal: Simulator: [1]anonymous@D:/cocoscreatertest/奇点棋牌-十三水四色牌/qidiangame/client/assets/scripts/components/jquery-3.2.1.js:2757
+2018-01-09T07:15:40.381Z - normal: Simulator: [2]anonymous@D:/cocoscreatertest/奇点棋牌-十三水四色牌/qidiangame/client/assets/scripts/components/jquery-3.2.1.js:2808
+2018-01-09T07:15:40.382Z - normal: Simulator: [3]arr@D:/cocoscreatertest/奇点棋牌-十三水四色牌/qidiangame/client/assets/scripts/components/jquery-3.2.1.js:53
+2018-01-09T07:15:40.382Z - normal: Simulator: [4]anonymous@D:/cocoscreatertest/奇点棋牌-十三水四色牌/qidiangame/client/assets/scripts/components/jquery-3.2.1.js:57
+2018-01-09T07:15:40.382Z - normal: Simulator: [5]newRequire@src/jsb_polyfill.js:10
+2018-01-09T07:15:40.383Z - normal: Simulator: [6]anonymous@src/jsb_polyfill.js:21
+2018-01-09T07:15:40.384Z - normal: Simulator: [7]downloadScript@src/jsb_polyfill.js:32593
+2018-01-09T07:15:40.384Z - normal: Simulator: [8]96.Downloader.handle@src/jsb_polyfill.js:15779
+2018-01-09T07:15:40.384Z - normal: Simulator: [9]flow@src/jsb_polyfill.js:16354
+2018-01-09T07:15:40.384Z - normal: Simulator: [10]flow@src/jsb_polyfill.js:16372
+2018-01-09T07:15:40.384Z - normal: Simulator: [11]103.proto.flowIn@src/jsb_polyfill.js:16427
+2018-01-09T07:15:40.385Z - normal: Simulator: [12]100.proto.append@src/jsb_polyfill.js:16117
+2018-01-09T07:15:40.386Z - normal: Simulator: [13]92.proto.load@src/jsb_polyfill.js:15135
+2018-01-09T07:15:40.386Z - normal: Simulator: [14]prepare@src/jsb_polyfill.js:32309
+2018-01-09T07:15:40.386Z - normal: Simulator: [15]run@src/jsb_polyfill.js:32325
+2018-01-09T07:15:40.386Z - normal: Simulator: [16]boot@main.js:92
+2018-01-09T07:15:40.386Z - normal: Simulator: [17]anonymous@main.js:99
+2018-01-09T07:15:40.387Z - normal: Simulator: [18]anonymous@main.js:101
+2018-01-09T07:15:40.387Z - normal: Simulator: iShow!
+2018-01-09T07:15:43.749Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-01-09T07:15:43.749Z - normal: Simulator: D/jswrapper (587): GC begin ..., (js->native map) size: 19, all objects: 297
+2018-01-09T07:15:43.805Z - normal: Simulator: D/jswrapper (595): GC end ..., (js->native map) size: 19, all objects: 297
+2018-01-09T07:15:43.806Z - normal: Simulator: D/jswrapper (587): GC begin ..., (js->native map) size: 19, all objects: 297
+2018-01-09T07:15:43.829Z - normal: Simulator: D/jswrapper (595): GC end ..., (js->native map) size: 19, all objects: 297
+2018-01-09T07:15:43.831Z - normal: Simulator: D/jswrapper (587): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-01-09T07:15:43.863Z - normal: Simulator: D/jswrapper (595): GC end ..., (js->native map) size: 0, all objects: 0
+2018-01-09T07:15:43.864Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-01-09T08:18:23.700Z - info: shutdown preview server

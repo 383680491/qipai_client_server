@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_gameIcon",
+    "texture": "18f4093e-6501-4d16-b191-e2ee694640fa",
+    "atlas": "",
+    "rect": [
+      42,
+      44,
+      692,
+      207
+    ],
+    "offset": [
+      6,
+      -9.5
+    ],
+    "originalSize": [
+      764,
+      276
+    ]
+  }
+}

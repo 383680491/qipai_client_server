@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "babykylin",
+    "texture": "04d79bb4-0cff-43ce-bd62-d1c46b609255",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      306,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      306,
+      266
+    ]
+  }
+}

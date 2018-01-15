@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "texiao_6",
+    "texture": "ead3f9e6-6a56-43c4-b819-dcfba921a430",
+    "atlas": "edc2bec3-13c7-4933-810c-a2cef9daa6ba",
+    "rect": [
+      2,
+      542,
+      98,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      58
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SSPAnimation",
+    "texture": "398b711a-5d41-403b-a96d-c9bb78218824",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2041,
+      3569
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      2046,
+      3572
+    ]
+  }
+}

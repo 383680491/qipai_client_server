@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_sss_cyanL",
+    "texture": "4ae6ad04-61a2-4d61-91f7-2ecdf8592adf",
+    "atlas": "1c0b6a16-4190-434f-97bb-0d5c1ce0a00f",
+    "rect": [
+      1958,
+      1404,
+      152,
+      72
+    ],
+    "offset": [
+      1,
+      -3
+    ],
+    "originalSize": [
+      200,
+      100
+    ],
+    "rotated": 1
+  }
+}

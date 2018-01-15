@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bomb_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,280},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,560},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{280,0},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{280,280},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{280,560},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,0},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{840,0},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1120,0},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,280},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,560},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{840,280},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1120,280},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{840,560},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+			<key>bomb_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1120,560},{280,280}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,280}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>bomb.png</string>
+			<key>realTextureFileName</key>
+			<string>bomb.png</string>
+			<key>size</key>
+			<string>{1400,840}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1400</integer>
+			<key>height</key>
+			<integer>840</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dihuguang_00007",
+    "texture": "d1c2037f-35ea-4b75-a158-f6e1f6f27a9b",
+    "atlas": "74613db6-7232-40e4-8032-2e72567bb47c",
+    "rect": [
+      2,
+      1208,
+      400,
+      400
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      400
+    ]
+  }
+}

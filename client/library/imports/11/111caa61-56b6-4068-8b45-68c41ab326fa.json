@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cake.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "cake_01": {
+      "__uuid__": "7430122d-8d4f-4d5b-b9c9-b7c8fd44dcd6"
+    },
+    "cake_02": {
+      "__uuid__": "fb1d2eba-6845-461a-a0ee-823331f4f1c5"
+    },
+    "cake_03": {
+      "__uuid__": "5e64d997-e15a-4b9f-b04b-292947ea28a8"
+    },
+    "cake_04": {
+      "__uuid__": "a4477aec-35e1-4590-924c-614dd8822ff7"
+    },
+    "cake_05": {
+      "__uuid__": "7b7a893c-5740-4a51-9833-c5428e1fc0cd"
+    },
+    "cake_06": {
+      "__uuid__": "8007e794-99f4-4004-b56c-33c0baac9bad"
+    },
+    "cake_07": {
+      "__uuid__": "91b6c418-2ec2-415b-923f-3fd9441ffc62"
+    },
+    "cake_08": {
+      "__uuid__": "47d755e4-5e9f-456e-95e7-2954d791017f"
+    },
+    "cake_09": {
+      "__uuid__": "2d4fdf7f-978e-4b52-92bb-067c41ac78ef"
+    },
+    "cake_10": {
+      "__uuid__": "d45dc853-0172-4256-943a-fa1d1897dac6"
+    }
+  }
+}

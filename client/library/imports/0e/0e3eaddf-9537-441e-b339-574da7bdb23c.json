@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhengshuzi",
+    "texture": "ed891abc-ee37-468e-9229-47eecbdf2593",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      46
+    ]
+  }
+}

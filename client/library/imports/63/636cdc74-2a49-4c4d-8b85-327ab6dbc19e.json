@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_music.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "button": {
+      "__uuid__": "8b07714e-0288-4f4f-ad4c-8901480e8747"
+    },
+    "close": {
+      "__uuid__": "4604fbaf-b62a-445c-a38d-0c3cb3aaa0e2"
+    },
+    "open": {
+      "__uuid__": "acbbca10-ad09-477e-bcbb-8e9363515b64"
+    },
+    "volume1": {
+      "__uuid__": "af349558-6510-4251-adce-244622ed9c20"
+    },
+    "volume2": {
+      "__uuid__": "126e69bf-9a8d-4574-9762-0c600a17445f"
+    }
+  }
+}

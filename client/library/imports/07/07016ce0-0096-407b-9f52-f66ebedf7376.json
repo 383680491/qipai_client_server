@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_mark",
+    "texture": "f9a60720-13e6-45e5-831c-29244e27e0cb",
+    "atlas": "49db46e5-794a-4132-88f4-87ad873f934a",
+    "rect": [
+      34,
+      26,
+      68,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      84
+    ]
+  }
+}

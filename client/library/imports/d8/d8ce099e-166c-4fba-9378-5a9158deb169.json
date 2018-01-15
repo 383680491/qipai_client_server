@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hall_table.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "hall_SSS": {
+      "__uuid__": "394e786c-bfcc-4ee6-b413-9a39be4981c6"
+    },
+    "hall_biaoti": {
+      "__uuid__": "e267853c-12dc-4f46-8fe3-80f3a45b3c12"
+    },
+    "hall_bottombar": {
+      "__uuid__": "670f8c3c-c850-4596-955b-268d84172e02"
+    },
+    "hall_fourColor": {
+      "__uuid__": "b076d5e3-06ef-430f-943a-8b6ea521a110"
+    },
+    "hall_gonggaotiao": {
+      "__uuid__": "5c3f7dbf-5e00-4aad-bfb2-ae68c8e2600b"
+    },
+    "hall_help": {
+      "__uuid__": "271b1a37-8030-4d53-abc0-fc5a823d3b1d"
+    },
+    "hall_info": {
+      "__uuid__": "3849c16f-920d-47e1-a76d-bafbcfa2e651"
+    },
+    "hall_mfsz": {
+      "__uuid__": "231e1db1-d0a2-46ff-9817-33d01a8524d3"
+    },
+    "hall_score": {
+      "__uuid__": "850402b9-5b8d-4259-90b1-f0b1ab8b9e32"
+    },
+    "hall_setting": {
+      "__uuid__": "9f7d95ff-a93a-4f41-862d-30db707f57cf"
+    },
+    "hall_shop": {
+      "__uuid__": "a9a72151-5f4e-4467-96a0-54761a36aecc"
+    },
+    "hall_xiaolaba": {
+      "__uuid__": "324b235a-7eaa-48c0-b8e7-46ef2d6231f1"
+    }
+  }
+}

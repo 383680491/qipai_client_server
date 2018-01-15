@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "settle_settle",
+    "texture": "2ce3fe49-2850-47b8-8c69-df67d3d58bed",
+    "atlas": "3bc3d809-68df-4903-a586-5cf6de17b72c",
+    "rect": [
+      344,
+      2,
+      565,
+      153
+    ],
+    "offset": [
+      -5,
+      1
+    ],
+    "originalSize": [
+      583,
+      171
+    ]
+  }
+}

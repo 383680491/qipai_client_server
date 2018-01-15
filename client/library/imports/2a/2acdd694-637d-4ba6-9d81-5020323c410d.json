@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_sss_one",
+    "texture": "4ae6ad04-61a2-4d61-91f7-2ecdf8592adf",
+    "atlas": "1c0b6a16-4190-434f-97bb-0d5c1ce0a00f",
+    "rect": [
+      502,
+      292,
+      87,
+      32
+    ],
+    "offset": [
+      0,
+      -11
+    ],
+    "originalSize": [
+      89,
+      108
+    ],
+    "rotated": 1
+  }
+}

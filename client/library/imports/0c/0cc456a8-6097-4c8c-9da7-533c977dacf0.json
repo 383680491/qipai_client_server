@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sss_BBpai",
+    "texture": "9d873001-9259-43fc-b9b9-f0510e609e99",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      885,
+      769
+    ],
+    "offset": [
+      0.5,
+      -1.5
+    ],
+    "originalSize": [
+      892,
+      776
+    ]
+  }
+}

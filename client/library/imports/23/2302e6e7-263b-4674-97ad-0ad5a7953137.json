@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pub_word",
+    "texture": "e3994b78-9851-4e3d-a009-18613d29d6ae",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      507,
+      459
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      464
+    ]
+  }
+}

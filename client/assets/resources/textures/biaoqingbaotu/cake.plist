@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>cake_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,403},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,1},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{253,403},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{505,1},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{505,403},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{757,1},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{757,403},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1009,1},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+			<key>cake_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1009,403},{400,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{400,250}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>cake.png</string>
+			<key>realTextureFileName</key>
+			<string>cake.png</string>
+			<key>size</key>
+			<string>{1260,804}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1260</integer>
+			<key>height</key>
+			<integer>804</integer>
+		</dict>
+	</dict>
+</plist>

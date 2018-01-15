@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "tomato.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "tomato_01": {
+      "__uuid__": "d1cf940e-a290-4957-80cd-d2411c3a8212"
+    },
+    "tomato_02": {
+      "__uuid__": "1abeac29-7ed3-485b-bb1d-a1be8dc14d9a"
+    },
+    "tomato_03": {
+      "__uuid__": "8fb59b9c-d0fd-4ada-ac1c-bd9e4af7ed96"
+    },
+    "tomato_04": {
+      "__uuid__": "90e6c807-75c2-4ae9-b43f-66dc240cf2f7"
+    },
+    "tomato_05": {
+      "__uuid__": "e009016b-aabb-4415-b8e4-bbd94cdc2711"
+    },
+    "tomato_06": {
+      "__uuid__": "ae066fa8-e32b-4b9a-9f43-92381e4eb458"
+    },
+    "tomato_07": {
+      "__uuid__": "01ff1105-e606-4c42-99d4-da72b3e10144"
+    },
+    "tomato_08": {
+      "__uuid__": "9c2125e3-844c-4760-94e6-7cc7168fdb44"
+    },
+    "tomato_09": {
+      "__uuid__": "60dc2666-0446-443a-bf1b-e2e9f1aed836"
+    },
+    "tomato_10": {
+      "__uuid__": "f4bdb60f-40a6-423e-93e3-1433abc5b7f6"
+    }
+  }
+}

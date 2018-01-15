@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_reset",
+    "texture": "9b7bf5ad-fe06-4ee6-9e9d-16a91f184ece",
+    "atlas": "46aa93de-dfd3-45a0-b4eb-4ff0202d9be9",
+    "rect": [
+      931,
+      246,
+      80,
+      72
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      80,
+      80
+    ]
+  }
+}

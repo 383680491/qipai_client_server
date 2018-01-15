@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "modeNameImg",
+    "texture": "31d78000-dfdb-4b40-a9a8-5cfad88bc480",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      533,
+      84
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      538,
+      88
+    ]
+  }
+}

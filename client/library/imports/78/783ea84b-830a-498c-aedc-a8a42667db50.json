@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_agree",
+    "texture": "f9a60720-13e6-45e5-831c-29244e27e0cb",
+    "atlas": "49db46e5-794a-4132-88f4-87ad873f934a",
+    "rect": [
+      2,
+      26,
+      174,
+      30
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      194,
+      46
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "quanleida",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.9166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "qiu3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.15,
+              "value": 255
+            },
+            {
+              "frame": 0.15,
+              "value": 255
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.15,
+              "value": 0.53
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 4.81
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.15,
+              "value": 0.53
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 4.81
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.15,
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 360
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.15,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.15,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "qleida": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.15,
+              "value": 0.6
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 0.7
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.15,
+              "value": 0.6
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 0.7
+            }
+          ]
+        }
+      },
+      "diguang": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.18333333333333332,
+              "value": 0.62
+            },
+            {
+              "frame": 0.25,
+              "value": 1.34
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.18333333333333332,
+              "value": 0.62
+            },
+            {
+              "frame": 0.25,
+              "value": 1.34
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

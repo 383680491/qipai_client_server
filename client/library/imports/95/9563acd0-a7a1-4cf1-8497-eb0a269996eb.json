@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sssdilei.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dibanchongji0": {
+      "__uuid__": "38431aa8-e560-43f7-8035-610cc831b70c"
+    },
+    "dibanchongji1": {
+      "__uuid__": "3a6f4145-c59e-4ff1-8cb1-e53fffa7f737"
+    },
+    "dibanchongji2": {
+      "__uuid__": "06578f57-0979-4fd2-baa0-dc2b5a592af6"
+    },
+    "dibanchongji3": {
+      "__uuid__": "e95264ca-47be-4515-96ff-849dd1ef518a"
+    },
+    "dibanchongji4": {
+      "__uuid__": "798890f1-fa9f-4df8-91ff-a05b8a95c593"
+    },
+    "dibanchongji5": {
+      "__uuid__": "47845508-bd5b-488e-bb41-92e9f6e046d6"
+    },
+    "dibanchongji6": {
+      "__uuid__": "dc4eb9ba-9631-4e1d-859e-5b21e720e265"
+    }
+  }
+}

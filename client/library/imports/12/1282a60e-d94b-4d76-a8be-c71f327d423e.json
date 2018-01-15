@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dt-head",
+    "texture": "9ff308ea-364c-49a7-afa0-18b5163b2cf1",
+    "atlas": "c635dda9-8255-45ca-8109-aeee06d19122",
+    "rect": [
+      2,
+      100,
+      92,
+      92
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      120,
+      120
+    ]
+  }
+}

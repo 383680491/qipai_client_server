@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jrfj-clear1",
+    "texture": "ece40bdf-8bd4-4cc7-a9ae-45bf18fbdc8b",
+    "atlas": "4589049a-c8b7-4692-8f79-fe5ffe98d610",
+    "rect": [
+      114,
+      65,
+      132,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      56
+    ],
+    "rotated": 1
+  }
+}

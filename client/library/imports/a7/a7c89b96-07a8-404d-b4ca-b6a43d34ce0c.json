@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_roomId",
+    "texture": "fa9ae1f9-0636-4ca4-ab07-cb99f4f6a666",
+    "atlas": "d93fd3c0-8fa4-4b86-b563-71c7230a0ea8",
+    "rect": [
+      392,
+      182,
+      165,
+      30
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      215,
+      50
+    ],
+    "rotated": 1
+  }
+}

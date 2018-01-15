@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_update",
+    "texture": "8c176f6e-d8ca-4875-9b40-d5bd66d5d442",
+    "atlas": "",
+    "rect": [
+      0,
+      11,
+      231,
+      82
+    ],
+    "offset": [
+      -5.5,
+      -4.5
+    ],
+    "originalSize": [
+      242,
+      95
+    ]
+  }
+}

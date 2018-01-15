@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_guo",
+    "texture": "8bd6cf8c-5143-474b-b1d2-45ab08453f9a",
+    "atlas": "21811c57-35af-4c17-a1ed-f71aa228bddc",
+    "rect": [
+      424,
+      2,
+      78,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      78
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_word.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "icon_BWZprompt": {
+      "__uuid__": "46725a77-a528-4d02-b90b-051b141f5d97"
+    },
+    "icon_charge": {
+      "__uuid__": "f7764b6f-69c3-4479-b414-2e56e10c0d72"
+    },
+    "icon_dissolveroom": {
+      "__uuid__": "0eb84127-4f93-4957-ab3c-651cc883ce8f"
+    },
+    "icon_double": {
+      "__uuid__": "416affac-9cca-4858-acb2-b5b16a72c049"
+    },
+    "icon_info": {
+      "__uuid__": "ef42aa10-71d4-42e9-8f85-2c7588ea51eb"
+    },
+    "icon_information": {
+      "__uuid__": "43f19eb1-14a6-461b-8c86-83bd2c985b17"
+    },
+    "icon_prompt": {
+      "__uuid__": "b1865308-e31c-4c33-a3d1-505b18301478"
+    },
+    "icon_ready": {
+      "__uuid__": "3b2ffd54-2c2b-4ac8-8f76-c9ef513bf134"
+    },
+    "icon_rule": {
+      "__uuid__": "0fb35ffa-38f6-4ef4-a005-fa61bd390404"
+    },
+    "icon_service": {
+      "__uuid__": "5716f573-d867-4e72-9c66-b15f5140ff4b"
+    },
+    "icon_setting": {
+      "__uuid__": "78415fb4-d12a-416a-837b-87f3bdabbd81"
+    }
+  }
+}

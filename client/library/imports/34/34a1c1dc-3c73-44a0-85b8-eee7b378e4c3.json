@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phb-ID",
+    "texture": "8bd6cf8c-5143-474b-b1d2-45ab08453f9a",
+    "atlas": "21811c57-35af-4c17-a1ed-f71aa228bddc",
+    "rect": [
+      424,
+      282,
+      34,
+      20
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      70,
+      38
+    ]
+  }
+}

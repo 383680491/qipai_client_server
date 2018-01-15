@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mj_east",
+    "texture": "8bd6cf8c-5143-474b-b1d2-45ab08453f9a",
+    "atlas": "21811c57-35af-4c17-a1ed-f71aa228bddc",
+    "rect": [
+      168,
+      366,
+      30,
+      32
+    ],
+    "offset": [
+      1,
+      -2
+    ],
+    "originalSize": [
+      36,
+      36
+    ]
+  }
+}

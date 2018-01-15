@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WebShare",
+    "texture": "b34b216f-0e13-4b68-b1e1-2ed277fe03c8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      40
+    ]
+  }
+}

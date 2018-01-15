@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jushu",
+    "texture": "11acd13e-811b-48c0-ba3b-7b0c142014e2",
+    "atlas": "5e72767e-764a-4bcb-92e7-f9806466e835",
+    "rect": [
+      2,
+      116,
+      670,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      704,
+      54
+    ]
+  }
+}

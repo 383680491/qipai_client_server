@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "public-zuoshang",
+    "texture": "c1bafdbe-06c8-4d55-9bc6-d797a7a5707b",
+    "atlas": "3a4c6139-d55f-45bf-b1c9-5a542d7f6fa2",
+    "rect": [
+      214,
+      172,
+      80,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      90
+    ]
+  }
+}

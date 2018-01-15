@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_mj_tianhu",
+    "texture": "ebda316c-530f-4c83-8d41-8c40748c6761",
+    "atlas": "28b77382-ed8f-49a6-8031-208d9b3b81e5",
+    "rect": [
+      516,
+      2,
+      128,
+      215
+    ],
+    "offset": [
+      2,
+      0
+    ],
+    "originalSize": [
+      134,
+      217
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dahu1",
+    "texture": "d29afba3-672f-49ab-be3c-5ec0f1913bda",
+    "atlas": "db695b52-a8a6-49dc-a507-924ecfd27d85",
+    "rect": [
+      92,
+      2,
+      60,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      112
+    ]
+  }
+}

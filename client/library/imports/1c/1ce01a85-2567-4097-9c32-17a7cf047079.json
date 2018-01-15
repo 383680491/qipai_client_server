@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "SSPgame.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "biaoti": {
+      "__uuid__": "e3c4d25f-0157-4777-9cad-49ddc088a030"
+    },
+    "chupai": {
+      "__uuid__": "5c1d9544-1408-4139-b9e5-4c4df5324de2"
+    },
+    "dianliang": {
+      "__uuid__": "8a544422-ecce-4536-8a13-85f673e84262"
+    },
+    "dichikuang": {
+      "__uuid__": "21acadd8-c392-4cfb-a796-bebd7e49f3ea"
+    },
+    "dikuang2": {
+      "__uuid__": "40ee6235-6c07-4812-87cd-db66389fd344"
+    },
+    "jinlongkuang1": {
+      "__uuid__": "03691f2f-7687-4270-8530-d04a4bff3561"
+    },
+    "jinlongkuang2": {
+      "__uuid__": "d2e100b7-b6fa-43fe-8729-decc11534c09"
+    },
+    "mopai": {
+      "__uuid__": "9648f393-ee25-49d2-878f-73ab5bc44edb"
+    },
+    "paidi": {
+      "__uuid__": "6bd2bb3d-f7d9-4240-b1f0-1ad6e09f1f94"
+    },
+    "paigai": {
+      "__uuid__": "6c578cd9-72e2-4036-9d6f-12ff0aef09ef"
+    },
+    "qie_24": {
+      "__uuid__": "ca5725ef-777e-48bd-9c6a-e6184768a14b"
+    },
+    "suoChi": {
+      "__uuid__": "cc70939a-4abc-4f2e-a162-096115291e39"
+    },
+    "tishi1": {
+      "__uuid__": "7733b4ae-77e6-4e4b-993a-b8bc8516428d"
+    },
+    "tishi2": {
+      "__uuid__": "30549b72-1e86-48d2-9f2b-b66e293beadb"
+    },
+    "tuoguan": {
+      "__uuid__": "a361e9f5-f284-4fd1-9c07-5cd24b16c674"
+    },
+    "xiaokuang1": {
+      "__uuid__": "41463106-21cc-4913-976b-4f04f32cbfe9"
+    },
+    "xiaokuang2": {
+      "__uuid__": "99b06d9a-e660-47e0-b35a-38e21f96100d"
+    },
+    "xingxing": {
+      "__uuid__": "dfae90ae-1608-4415-a26d-2486aa908abf"
+    },
+    "yinlongkuang1": {
+      "__uuid__": "602747ca-7895-45b9-838f-f24e080eaed5"
+    },
+    "yinlongkuang2": {
+      "__uuid__": "6bb63440-d394-4978-9726-938cc8dafa0c"
+    },
+    "zhuang": {
+      "__uuid__": "1fcf9fcb-4b91-4d72-9b9d-0f575cef4671"
+    }
+  }
+}

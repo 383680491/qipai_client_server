@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "83658f1e-1a00-41f3-9dd8-95c44f105ad3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shop_dikuang": {
+      "ver": "1.0.3",
+      "uuid": "bb94f885-108e-46bd-993a-8eaf3be2b987",
+      "rawTextureUuid": "83658f1e-1a00-41f3-9dd8-95c44f105ad3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 6,
+      "trimY": 7,
+      "width": 350,
+      "height": 221,
+      "rawWidth": 363,
+      "rawHeight": 234,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

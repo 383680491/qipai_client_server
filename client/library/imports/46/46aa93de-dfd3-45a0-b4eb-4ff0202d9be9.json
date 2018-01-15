@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_button.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn-": {
+      "__uuid__": "45336647-342c-4004-9ab9-36c0bb997c78"
+    },
+    "btn-invite": {
+      "__uuid__": "9ed94161-4d50-42db-b1b2-8f26fe3b357c"
+    },
+    "btn-start": {
+      "__uuid__": "b9fd9459-b20d-4c67-8f08-c87d054e3ad7"
+    },
+    "btn_ traveler": {
+      "__uuid__": "14880911-c645-498a-9d77-fa433371cc56"
+    },
+    "btn_agree": {
+      "__uuid__": "3ada4164-78da-4e7e-954c-af657e9a0534"
+    },
+    "btn_cancelAll": {
+      "__uuid__": "ba1bb3a1-3e8e-4917-8cff-9a059ddd1913"
+    },
+    "btn_cancel_normal": {
+      "__uuid__": "f68d2ded-ec10-49f7-9865-782491535238"
+    },
+    "btn_cancel_press": {
+      "__uuid__": "d2f7c572-ea3d-4792-a619-6fc9297d9ebb"
+    },
+    "btn_dismissRoom": {
+      "__uuid__": "e2334daf-a75a-4d91-b8ba-2c22e59b66e1"
+    },
+    "btn_dissolve": {
+      "__uuid__": "2d6be515-28cb-48d0-ad0f-c859c4ed0958"
+    },
+    "btn_observer": {
+      "__uuid__": "0a854fa4-c9c3-4c73-9b01-567623d6ad88"
+    },
+    "btn_ok": {
+      "__uuid__": "239e12f6-aa98-4360-87ec-911cd6e17464"
+    },
+    "btn_ok_normal": {
+      "__uuid__": "8fd191a1-8d22-4ca1-b702-663e21915635"
+    },
+    "btn_ok_press": {
+      "__uuid__": "3df44286-0167-42c4-b1bc-a0b1fbfade0f"
+    },
+    "btn_prepare": {
+      "__uuid__": "78ec7ab1-ec3f-46d0-86d9-aa39f40cd681"
+    },
+    "btn_quick": {
+      "__uuid__": "3d1ae6dc-5c33-495a-8e54-fb996d624145"
+    },
+    "btn_refuse": {
+      "__uuid__": "81a4e1d6-8464-46a7-8900-249498362dd9"
+    },
+    "btn_reset": {
+      "__uuid__": "67b775f8-416e-4bc0-ad55-a9baa5ff7d2b"
+    },
+    "btn_send": {
+      "__uuid__": "ac5c8803-afcd-4625-a11e-628e04a792ab"
+    },
+    "btn_share": {
+      "__uuid__": "c64ca16d-13be-4193-9732-5c50bac54f7d"
+    }
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fapai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "paibei1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": -125
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei13": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": 125
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei7": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": -0.6
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei8": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": 20.6
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei9": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": 40.6
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei10": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": 62.4
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei11": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": 82.5
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": -106
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": -83
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei4": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": -62.3
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei5": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": -41.9
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei6": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": -22.6
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      },
+      "paibei12": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.016666666666666666,
+              "value": -125
+            },
+            {
+              "frame": 0.5,
+              "value": 102.1
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0.33
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 255
+        },
+        {
+          "frame": 0.5,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

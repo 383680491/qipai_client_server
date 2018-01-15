@@ -1,0 +1,27 @@
+热更新的节点项目中已经添加,原生平台版本请搭建好热更新服务器之后再使用，如果热更新请求的服务器没有打开就不会触发热更新的一些回调，慎用！！
+一、打出第一个包
+	1、构建
+	2、进入构建出的build文件夹所在路径，打开命令窗口，使用version_generator.js脚本生成当前版本的清单文件和版本文件
+	3、输入命令示例：node version_generator.js -v 1.0.0 -u http://1.1.1.1:8080/remote-assets/ -s build/jsb-default -d  assets
+	   参数：
+                    -v   指定 Manifest 文件的主版本号。
+                    -u   指定服务器远程包的地址，这个地址需要和最初发布版本中 Manifest 文件的远程包地址一致，否则无法检测到更新。
+                    -s   本地原生打包版本的目录相对路径。
+                    -d   保存 Manifest 文件的地址
+	   命令成功后会在assets文件夹下生成project.manifest和version.manifest，注意将project.manifest拷贝到jsb-******/res/raw-assets中去
+	4、在main.js开头加上
+	   if (cc && cc.sys.isNative) { 
+               var hotUpdateSearchPaths = cc.sys.localStorage.getItem('HotUpdateSearchPaths'); 
+               if (hotUpdateSearchPaths) { 
+                   jsb.fileUtils.setSearchPaths(JSON.parse(hotUpdateSearchPaths)); 
+                   console.log('[main.js] 热更新SearchPath: ' + JSON.parse(hotUpdateSearchPaths));
+               }
+           }
+           // 这是为了解决一个重启的 bug 而添加的
+           cc.director.startAnimation();
+	5、编译
+二、之后要更新版本只需要用version_generator.js脚本再次生成清单文件和版本文件，然后放到服务器上就可以了
+	1、构建
+	2、进入构建出的build文件夹所在路径，打开命令窗口，使用version_generator.js脚本生成当前版本的清单文件和版本文件
+	3、命令成功后会在assets文件夹下生成project.manifest和version.manifest，注意将project.manifest拷贝到jsb-default/res/raw-assets中去
+	4、拷贝project.manifest和version.manifest和jsb-default里面的res/src目录到http服务器下，部署远程版本

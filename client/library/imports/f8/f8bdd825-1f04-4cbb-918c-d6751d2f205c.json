@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paiTexiao",
+    "texture": "ead3f9e6-6a56-43c4-b819-dcfba921a430",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      242,
+      658
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      662
+    ]
+  }
+}

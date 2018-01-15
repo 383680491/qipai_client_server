@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_chick",
+    "texture": "93ff5eff-6c71-4094-a6ec-f17a8f975699",
+    "atlas": "fe202508-7d3f-472c-a768-db80c5186756",
+    "rect": [
+      2,
+      50,
+      356,
+      46
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      370,
+      72
+    ]
+  }
+}

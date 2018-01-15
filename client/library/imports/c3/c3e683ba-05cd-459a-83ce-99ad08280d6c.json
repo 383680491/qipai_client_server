@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mjks-7",
+    "texture": "59cf60a8-5584-4a64-b99f-a0c133aa861e",
+    "atlas": "e83d51cb-5ea1-4b5e-ac50-c0cfa3f32a23",
+    "rect": [
+      54,
+      39,
+      20,
+      33
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      30,
+      45
+    ]
+  }
+}

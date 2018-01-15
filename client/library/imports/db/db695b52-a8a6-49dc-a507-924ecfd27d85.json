@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "texiaozi.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dahu": {
+      "__uuid__": "475f1791-635a-4dc8-81fe-6edfe73eabda"
+    },
+    "dahu1": {
+      "__uuid__": "62d39c00-f2e4-4f79-a7fa-da1e63ea4dc2"
+    },
+    "dihu": {
+      "__uuid__": "ad443264-c61c-4022-9f62-47c6497621f3"
+    },
+    "duhu1": {
+      "__uuid__": "c8a03718-b975-4540-83d8-410ff328cd95"
+    },
+    "jinlong1": {
+      "__uuid__": "3cc02813-77c9-4e09-a366-78b5bfc09027"
+    },
+    "jinlong_heng": {
+      "__uuid__": "77975ea1-d2a9-48de-8a44-ed781221f88c"
+    },
+    "jinlongguang": {
+      "__uuid__": "75e004e7-b931-46a1-855d-fc3639435fb5"
+    },
+    "pinghu": {
+      "__uuid__": "1b8705e7-68ba-432a-bb4b-cce68ae46572"
+    },
+    "tianhu": {
+      "__uuid__": "361c1d31-77f3-4829-9322-77642714b450"
+    },
+    "yifanhu": {
+      "__uuid__": "8a138d2b-da27-41ad-a504-a4a043684494"
+    },
+    "yinlong": {
+      "__uuid__": "daf2844a-b982-4660-8f47-db7ef0d407f7"
+    },
+    "yinlong1": {
+      "__uuid__": "372eafc0-506c-4cff-94c2-502ebd504b0e"
+    },
+    "yinlong2": {
+      "__uuid__": "ad6073ab-b97e-4a11-96ea-c5d85716739f"
+    },
+    "yinlong_heng": {
+      "__uuid__": "6177a18a-9e55-40d8-bb3f-6df73f70c90a"
+    },
+    "yinlongguang": {
+      "__uuid__": "19de95cd-0890-450a-b39c-9859127c9bd9"
+    },
+    "yufanhu1": {
+      "__uuid__": "cd5a6f75-1f7b-4d1d-bf9a-6b88bbeaa9ba"
+    }
+  }
+}

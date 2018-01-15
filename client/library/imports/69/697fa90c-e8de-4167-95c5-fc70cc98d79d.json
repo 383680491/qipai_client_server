@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_sss_daqiang",
+    "texture": "4ae6ad04-61a2-4d61-91f7-2ecdf8592adf",
+    "atlas": "1c0b6a16-4190-434f-97bb-0d5c1ce0a00f",
+    "rect": [
+      286,
+      1893,
+      248,
+      146
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      146
+    ],
+    "rotated": 1
+  }
+}

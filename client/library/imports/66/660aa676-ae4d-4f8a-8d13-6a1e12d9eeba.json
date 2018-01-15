@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eff_sss_liangse",
+    "texture": "4ae6ad04-61a2-4d61-91f7-2ecdf8592adf",
+    "atlas": "1c0b6a16-4190-434f-97bb-0d5c1ce0a00f",
+    "rect": [
+      546,
+      2,
+      538,
+      286
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      700,
+      400
+    ]
+  }
+}

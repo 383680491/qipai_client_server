@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "paiTexiao.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "texiao_1": {
+      "__uuid__": "cf02d889-74ec-4799-bd9c-2af0dbc6949b"
+    },
+    "texiao_10": {
+      "__uuid__": "ad46b1d6-a2d5-403c-9747-b25f4ddf78d2"
+    },
+    "texiao_11": {
+      "__uuid__": "c0fa680b-333a-43dd-a713-9d48d0f78d88"
+    },
+    "texiao_12": {
+      "__uuid__": "f73d4b72-6cf9-407a-9c9c-007cdc1cb30a"
+    },
+    "texiao_13": {
+      "__uuid__": "dce7977d-f2cc-4f6c-9c5e-e44f8094c684"
+    },
+    "texiao_14": {
+      "__uuid__": "fc67614b-f135-4dd0-b4fc-36eba3a6eaa4"
+    },
+    "texiao_15": {
+      "__uuid__": "816bc23d-26b6-458f-ae05-7b620797a7f0"
+    },
+    "texiao_16": {
+      "__uuid__": "2bb48741-0a93-4fce-86e5-44be4b1f361a"
+    },
+    "texiao_2": {
+      "__uuid__": "4517fb3b-ed14-4096-94e8-00f562f2e0ad"
+    },
+    "texiao_3": {
+      "__uuid__": "66cf4142-1712-4e66-b9f3-e8c04e68f5e5"
+    },
+    "texiao_4": {
+      "__uuid__": "b0c87260-250d-447f-9732-5869922fb510"
+    },
+    "texiao_5": {
+      "__uuid__": "3cccf91d-7bdd-41cd-801e-42a19e9026d2"
+    },
+    "texiao_6": {
+      "__uuid__": "0482c909-1805-4b50-bd94-44721b341f6b"
+    },
+    "texiao_7": {
+      "__uuid__": "f10e5ce1-931a-42e7-8aff-08da4e5e275e"
+    },
+    "texiao_8": {
+      "__uuid__": "0a43157d-fda0-4dd7-afa8-eb943549f03f"
+    },
+    "texiao_9": {
+      "__uuid__": "10e6827d-a29b-4110-8b88-0304ee9a7846"
+    }
+  }
+}

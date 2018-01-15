@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>qie_36.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1333,750}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1333,750}}</string>
+                <key>sourceSize</key>
+                <string>{1333,750}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>qie_36.png</string>
+            <key>size</key>
+            <string>{1337,754}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:9a3373a6059ce76fd6da67e0d5a69db8$</string>
+            <key>textureFileName</key>
+            <string>qie_36.png</string>
+        </dict>
+    </dict>
+</plist>

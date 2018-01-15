@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "M_wind_east",
+    "texture": "144d890c-c414-4072-afd5-99c11b4e20b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      94
+    ]
+  }
+}

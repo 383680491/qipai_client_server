@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jrfj-shurukuang",
+    "texture": "ece40bdf-8bd4-4cc7-a9ae-45bf18fbdc8b",
+    "atlas": "4589049a-c8b7-4692-8f79-fe5ffe98d610",
+    "rect": [
+      170,
+      65,
+      58,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      82
+    ],
+    "rotated": 1
+  }
+}

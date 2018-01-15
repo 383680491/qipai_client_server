@@ -1,0 +1,2 @@
+构建时要把client\build\jsb-default\frameworks\cocos2d-x\cocos\scripting\js-bindings\manual路径下的jsb_socketio.cpp替换掉
+具体参照帖子:http://forum.cocos.com/t/android-5-1-failed-to-invoke-socketio-emit/53950/7

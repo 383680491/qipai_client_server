@@ -1,0 +1,1 @@
+统计功能不支持1.7.0以下的版本，1.7.0以下的版本请在AppStart.js中将cc.vv.isAnalytics设置为false

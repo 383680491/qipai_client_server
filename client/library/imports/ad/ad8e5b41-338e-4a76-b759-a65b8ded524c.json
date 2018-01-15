@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_haoyou",
+    "texture": "fa9ae1f9-0636-4ca4-ab07-cb99f4f6a666",
+    "atlas": "d93fd3c0-8fa4-4b86-b563-71c7230a0ea8",
+    "rect": [
+      171,
+      783,
+      150,
+      151
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      151
+    ]
+  }
+}

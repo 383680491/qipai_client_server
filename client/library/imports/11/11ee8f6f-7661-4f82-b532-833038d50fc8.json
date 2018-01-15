@@ -1,0 +1,120 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "heju",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {},
+    "paths": {
+      "heju": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.39
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0.8
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 0.8
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0.7
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1.39
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 0.8
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 0.8
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0.7
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.25,
+              "value": 0
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.25,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "heju1": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.75,
+              "value": 0.8
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.75,
+              "value": 0.8
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.7333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": 255
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

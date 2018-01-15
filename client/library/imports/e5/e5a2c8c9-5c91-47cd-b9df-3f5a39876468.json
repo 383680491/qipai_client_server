@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sss_wanfa_05C",
+    "texture": "2137859d-0f5a-4dd5-aa0d-db7ecc5c6097",
+    "atlas": "c0813e59-5f73-4277-b69a-2ee4784afdae",
+    "rect": [
+      368,
+      738,
+      136,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      170,
+      69
+    ]
+  }
+}

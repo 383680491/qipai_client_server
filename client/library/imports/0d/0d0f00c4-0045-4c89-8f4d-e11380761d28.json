@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tao14",
+    "texture": "9256cf41-fa59-40eb-b305-dcbb2b2c3323",
+    "atlas": "9d13eb08-6aed-4f42-97a2-00e3d8bdfc49",
+    "rect": [
+      1426,
+      518,
+      176,
+      256
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      180,
+      260
+    ]
+  }
+}

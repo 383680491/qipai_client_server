@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "dianzan.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dianzan_00": {
+      "__uuid__": "71faad6d-4960-407e-85a5-165c69fa7275"
+    },
+    "dianzan_01": {
+      "__uuid__": "51fbf1d2-e925-438b-87e7-64a3b58a16fb"
+    },
+    "dianzan_02": {
+      "__uuid__": "2c772abe-b2bf-47e7-8ccf-5383b73026d9"
+    },
+    "dianzan_03": {
+      "__uuid__": "e9853d96-cd60-49c8-a9d7-b25017050b28"
+    },
+    "dianzan_04": {
+      "__uuid__": "c97773cd-38ee-4507-b1e4-e796286507e1"
+    },
+    "dianzan_05": {
+      "__uuid__": "a7b7a1fb-a648-4d7b-b342-4f8be73ae1d8"
+    },
+    "dianzan_06": {
+      "__uuid__": "c920f82b-fd74-4f08-bfad-944de8fa2595"
+    },
+    "dianzan_07": {
+      "__uuid__": "d1e7d898-6373-4e3b-a75f-198a26b1b0e1"
+    },
+    "dianzan_08": {
+      "__uuid__": "7db24a47-18f6-49e3-b9bd-d8c243c90907"
+    },
+    "dianzan_09": {
+      "__uuid__": "57880b17-7c05-413f-a752-d9c2813855d7"
+    },
+    "dianzan_10": {
+      "__uuid__": "b8aeab97-e952-455d-92ab-7fecfb9edf0d"
+    },
+    "dianzan_11": {
+      "__uuid__": "74022a8d-09d0-4b24-be09-1cb50120596c"
+    }
+  }
+}

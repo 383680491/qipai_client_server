@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "suoChi",
+    "texture": "1fd8cc3a-cca7-4904-aa00-43e1e7e4183c",
+    "atlas": "1ce01a85-2567-4097-9c32-17a7cf047079",
+    "rect": [
+      640,
+      158,
+      198,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      198,
+      172
+    ]
+  }
+}

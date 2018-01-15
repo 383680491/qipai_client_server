@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qie_36",
+    "texture": "da20639a-79ea-4415-8067-860df133298f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1337,
+      754
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1337,
+      754
+    ]
+  }
+}

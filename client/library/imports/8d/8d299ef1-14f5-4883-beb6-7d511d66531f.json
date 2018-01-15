@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sss_costExplain",
+    "texture": "a472f57d-eb69-4854-98d5-3243e3cc0d82",
+    "atlas": "9ee78acf-8821-4636-8ee3-eec7155ff85f",
+    "rect": [
+      2,
+      2,
+      454,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      466,
+      56
+    ],
+    "rotated": 1
+  }
+}

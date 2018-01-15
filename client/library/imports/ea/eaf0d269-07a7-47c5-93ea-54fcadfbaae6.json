@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_ProgressBarBG",
+    "texture": "e65a018a-1710-4a84-9e75-6d51beca2b9d",
+    "atlas": "",
+    "rect": [
+      12,
+      0,
+      776,
+      43
+    ],
+    "offset": [
+      6,
+      2.5
+    ],
+    "originalSize": [
+      788,
+      48
+    ]
+  }
+}

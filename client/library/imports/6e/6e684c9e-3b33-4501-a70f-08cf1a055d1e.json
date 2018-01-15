@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "game_table.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_create": {
+      "__uuid__": "a17873f0-934e-4427-ab77-d1d573f322ac"
+    },
+    "btn_enter": {
+      "__uuid__": "ff4d6a36-fe20-4382-be43-576bd242063a"
+    },
+    "btn_ovserved": {
+      "__uuid__": "a0d1bc47-cb26-45bb-994f-869f48e9288d"
+    },
+    "btn_wanfa": {
+      "__uuid__": "5703d8b3-5efc-4765-a92f-34efc8913544"
+    }
+  }
+}

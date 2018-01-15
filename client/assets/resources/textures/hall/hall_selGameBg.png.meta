@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1fcde9a4-02c2-4d82-afca-3c2f576c0c6f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hall_selGameBg": {
+      "ver": "1.0.3",
+      "uuid": "b11d3586-4bb2-4490-8796-79a2378bf910",
+      "rawTextureUuid": "1fcde9a4-02c2-4d82-afca-3c2f576c0c6f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1284,
+      "rawHeight": 724,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

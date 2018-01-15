@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jryx-fzmj",
+    "texture": "96f023e7-d8e4-4517-8cdd-ad56082900c6",
+    "atlas": "",
+    "rect": [
+      19,
+      21,
+      301,
+      84
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      340,
+      126
+    ]
+  }
+}

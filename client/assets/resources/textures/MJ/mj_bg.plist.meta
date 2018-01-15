@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "db1cbdf1-18c4-41f7-995c-cad8ac7d45ff",
+  "rawTextureUuid": "ed81017a-ff94-4418-872e-73a7a94e7ee4",
+  "size": {
+    "width": 1338,
+    "height": 754
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "mj_beijing.png": {
+      "ver": "1.0.3",
+      "uuid": "76e1d9a1-8767-4541-8aae-30929625ae51",
+      "rawTextureUuid": "ed81017a-ff94-4418-872e-73a7a94e7ee4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1334,
+      "height": 750,
+      "rawWidth": 1334,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

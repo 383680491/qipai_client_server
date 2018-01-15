@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_head.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Z_user": {
+      "__uuid__": "00de84be-f88d-4dca-8834-b220b2f280d1"
+    },
+    "dt-head": {
+      "__uuid__": "1282a60e-d94b-4d76-a8be-c71f327d423e"
+    },
+    "dt-touxiang": {
+      "__uuid__": "c7c3e3b1-304c-4432-a3bd-f27789bc6c10"
+    },
+    "dt-touxiangdiejia": {
+      "__uuid__": "ef39669c-7ed5-4c27-9d31-34c0938e7f15"
+    },
+    "headBox": {
+      "__uuid__": "98bfb85b-c8bc-4a84-854f-4c73236d7bf7"
+    },
+    "touxiangkuang": {
+      "__uuid__": "0995601f-7254-4a04-abd9-f96ec0a034db"
+    }
+  }
+}

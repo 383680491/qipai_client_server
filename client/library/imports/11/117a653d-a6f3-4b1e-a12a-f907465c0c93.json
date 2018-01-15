@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chat_emojibg",
+    "texture": "93ff5eff-6c71-4094-a6ec-f17a8f975699",
+    "atlas": "fe202508-7d3f-472c-a768-db80c5186756",
+    "rect": [
+      2,
+      98,
+      710,
+      298
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      740,
+      326
+    ],
+    "rotated": 1
+  }
+}

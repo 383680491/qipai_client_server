@@ -1,0 +1,888 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kaimapai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.92,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "paibei": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.016666666666666666,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 0.06666666666666667,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 0.11666666666666667,
+                "value": {
+                  "__uuid__": "6ec1cd10-5d53-427b-90cc-a00f372fb99f"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 0.26666666666666666,
+                "value": {
+                  "__uuid__": "fe1ae2da-818a-40b4-a6e8-c00b0ca56c18"
+                }
+              },
+              {
+                "frame": 0.36666666666666664,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 0.4666666666666667,
+                "value": {
+                  "__uuid__": "c4f7742c-e9c4-46d2-b730-17966813a38e"
+                }
+              },
+              {
+                "frame": 0.5666666666666667,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "4cdec7e7-2c58-4ffa-a1ae-62ffbd5a3911"
+                }
+              },
+              {
+                "frame": 0.75,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 0.85,
+                "value": {
+                  "__uuid__": "aec042cd-f150-40d8-8df7-f2636b2c463c"
+                }
+              },
+              {
+                "frame": 0.95,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 1.05,
+                "value": {
+                  "__uuid__": "6f2fe457-cfcb-454d-b5ca-fc4048d37615"
+                }
+              },
+              {
+                "frame": 1.15,
+                "value": {
+                  "__uuid__": "78c535a0-40d4-4f00-b960-1c0d9e4e0f0e"
+                }
+              },
+              {
+                "frame": 1.2666666666666666,
+                "value": {
+                  "__uuid__": "9b013463-addb-4b03-bf17-167dce1fe4e0"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0.6
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 0.6
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 0.6
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 0.6
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0.6
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 0.6
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.6166666666666667,
+              "value": 0.6
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.7166666666666667,
+              "value": 0.6
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 0.6
+            },
+            {
+              "frame": 0.85,
+              "value": 0
+            },
+            {
+              "frame": 0.9,
+              "value": 0.6
+            },
+            {
+              "frame": 0.95,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0.6
+            },
+            {
+              "frame": 1.05,
+              "value": 0
+            },
+            {
+              "frame": 1.1,
+              "value": 0.6
+            },
+            {
+              "frame": 1.15,
+              "value": 0
+            },
+            {
+              "frame": 1.2,
+              "value": 0.6
+            },
+            {
+              "frame": 1.25,
+              "value": 0.3
+            },
+            {
+              "frame": 1.2833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.4,
+              "value": 0.6
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0.6
+            },
+            {
+              "frame": 0.7166666666666667,
+              "value": 0.6
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 0.6
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.2833333333333334,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "paibei/jiedian": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.25,
+              "value": 0
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": 1.3
+            },
+            {
+              "frame": 1.3833333333333333,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": 1.3
+            },
+            {
+              "frame": 1.3833333333333333,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "guang2/chengse1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "guang2/chengse2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 30
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 200
+            }
+          ]
+        }
+      },
+      "guang2/chengse3": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 60
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "guang2/chengse4": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 90
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 120
+            }
+          ]
+        }
+      },
+      "guang2/chengse5": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 120
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 90
+            }
+          ]
+        }
+      },
+      "guang2/chengse6": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 150
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 60
+            }
+          ]
+        }
+      },
+      "guang2/chengse7": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 180
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "guang2/chengse8": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 210
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 200
+            }
+          ]
+        }
+      },
+      "guang2/chengse9": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 240
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "guang2/chengse10": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 270
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 120
+            }
+          ]
+        }
+      },
+      "guang2/chengse11": {
+        "props": {
+          "scaleX": [],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.8
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 300
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 90
+            }
+          ]
+        }
+      },
+      "guang2/chengse12": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 330
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 60
+            }
+          ]
+        }
+      },
+      "guang2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.05,
+              "value": 0
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": -500
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "guangman02": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 1.27
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 1.27
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2166666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "diguang": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 0.81
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 0.81
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2,
+              "value": 0
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "fangkuaibai": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 21.12
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 11.87
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2166666666666666,
+              "value": 80
+            },
+            {
+              "frame": 1.2833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "guang": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.2166666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.1,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 3.21
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.2666666666666666,
+              "value": 3.21
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 255
+        },
+        {
+          "frame": 2.9,
+          "value": 255
+        },
+        {
+          "frame": 2.9166666666666665,
+          "value": 0
+        }
+      ],
+      "scaleX": [],
+      "scaleY": []
+    }
+  },
+  "events": []
+}

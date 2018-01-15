@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "volume_s",
+    "texture": "72ef6fd1-418f-4387-af48-3e5339ab1aff",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      366,
+      16
+    ],
+    "offset": [
+      -2,
+      1
+    ],
+    "originalSize": [
+      376,
+      24
+    ]
+  }
+}

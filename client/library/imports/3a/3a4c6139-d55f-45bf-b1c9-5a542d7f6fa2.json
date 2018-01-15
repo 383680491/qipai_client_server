@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pub_settingMenu.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "public-bangzhu": {
+      "__uuid__": "9829114a-3141-4d23-91d7-06a55b6e2254"
+    },
+    "public-fanhui": {
+      "__uuid__": "05d2fe51-21ff-4269-a041-0be156f5fb97"
+    },
+    "public-kuozhantiao": {
+      "__uuid__": "deb50158-ac0f-47bf-8b05-1019e4fd4511"
+    },
+    "public-shezhi": {
+      "__uuid__": "f16f0da9-ce6d-4531-9cfe-006ac0098a6a"
+    },
+    "public-tuichu": {
+      "__uuid__": "7f65ebfc-3a96-424b-b119-c2c3ab1883fe"
+    },
+    "public-zuoshang": {
+      "__uuid__": "91ce3546-dacb-4e46-baa5-04c988aed233"
+    }
+  }
+}

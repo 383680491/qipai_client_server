@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_checkbox",
+    "texture": "f9a60720-13e6-45e5-831c-29244e27e0cb",
+    "atlas": "49db46e5-794a-4132-88f4-87ad873f934a",
+    "rect": [
+      2,
+      202,
+      30,
+      30
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      60,
+      60
+    ]
+  }
+}
